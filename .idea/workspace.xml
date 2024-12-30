@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b65aa022-1cb7-4a23-9489-3f847db197f3" name="Changes" comment="update code" />
+    <list default="true" id="b65aa022-1cb7-4a23-9489-3f847db197f3" name="Changes" comment="update code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -49,7 +54,7 @@
     "TestNG.Lab298.executor": "Run",
     "TestNG.Lab305.executor": "Run",
     "TestNG.Lab305.testClickMangoLoginTitle.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Staging",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
