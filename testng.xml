@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/AARRSOL/IdeaProjects/ATB7xseleniumPractice">
+        <classes>
+            <class name="com.thetestingacadmey.ex_selenium.Lab298">
+                <methods>
+                    <include name="clickmango7222login"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacadmey.ex_selenium.Lab305">
+                <methods>
+                    <include name="testClickMangoLoginTitle"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

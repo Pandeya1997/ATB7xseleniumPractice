@@ -1,0 +1,11 @@
+{
+  "uuid": "ebda547a-94e7-45e7-9cdb-e52d661543ac",
+  "name": "com.thetestingacadmey.ex_selenium.Lab305",
+  "children": [
+    "af620653-60ff-4f16-bac1-c4d0a288f8ad"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1735522685965,
+  "stop": 1735522690568
+}

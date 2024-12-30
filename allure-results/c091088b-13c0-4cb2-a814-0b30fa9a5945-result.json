@@ -1,0 +1,61 @@
+{
+  "uuid": "c091088b-13c0-4cb2-a814-0b30fa9a5945",
+  "historyId": "50059188cc56fac87a2d3d3416ba9315",
+  "fullName": "com.thetestingacadmey.ex_selenium.Lab305.testClickMangoLoginTitle",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium.Lab305"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium.Lab305"
+    },
+    {
+      "name": "testMethod",
+      "value": "testClickMangoLoginTitle"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium.Lab305"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "17236@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testClickMangoLoginTitle",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735523339312,
+  "stop": 1735523350459
+}
