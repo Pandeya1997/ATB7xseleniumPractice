@@ -3,12 +3,12 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/AARRSOL/IdeaProjects/ATB7xseleniumPractice">
         <classes>
-            <class name="com.thetestingacadmey.ex_selenium.Lab298">
+            <class name="com.thetestingacadmey.ex_selenium_29_12_2024.Lab298">
                 <methods>
                     <include name="clickmango7222login"/>
                 </methods>
             </class>
-            <class name="com.thetestingacadmey.ex_selenium.Lab305">
+            <class name="com.thetestingacadmey.ex_selenium_29_12_2024.Lab305">
                 <methods>
                     <include name="testClickMangoLoginTitle"/>
                 </methods>
