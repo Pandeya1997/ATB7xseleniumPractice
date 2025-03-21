@@ -117,3 +117,20 @@ public class Lab315 {
     }
 }
 
+// * --> select all the nodes - select * from all element in html
+// input --> select all input box - select inputs from all the html
+// input [@title = "flipkart"] = select input  from all the html when  title  = flipkart;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
