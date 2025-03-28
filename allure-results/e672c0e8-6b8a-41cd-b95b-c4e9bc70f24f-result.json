@@ -1,1 +1,61 @@
-{"uuid":"e672c0e8-6b8a-41cd-b95b-c4e9bc70f24f","historyId":"e8b1d9612eebae3c7cff84cd9e0ca0c2","fullName":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315.testMakeAppointment","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315"},{"name":"testMethod","value":"testMakeAppointment"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"18672@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"testMakeAppointment","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742388674527,"stop":1742388703449}
+{
+  "uuid": "e672c0e8-6b8a-41cd-b95b-c4e9bc70f24f",
+  "historyId": "e8b1d9612eebae3c7cff84cd9e0ca0c2",
+  "fullName": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315.testMakeAppointment",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315"
+    },
+    {
+      "name": "testMethod",
+      "value": "testMakeAppointment"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "18672@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testMakeAppointment",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1742388674527,
+  "stop": 1742388703449
+}

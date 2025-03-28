@@ -19,70 +19,70 @@ import java.util.List;
 // 5. verify the error message is displayed on the page
 @Test
 public class Lab_311 {
-   @Test
-   public void testclickLoginNegative() throws InterruptedException {
-      EdgeOptions edgeOptions = new EdgeOptions();
-      edgeOptions.addArguments("--guest");
-      edgeOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
-      WebDriver driver = new EdgeDriver(edgeOptions);
-      //driver.get("https://app.vwo.com/#/login");
-      // or
-      driver.navigate().to("https://app.vwo.com");
+    @Test
+    public void testclickLoginNegative() throws InterruptedException {
+        EdgeOptions edgeOptions = new EdgeOptions();
+        edgeOptions.addArguments("--guest");
+        edgeOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+        WebDriver driver = new EdgeDriver(edgeOptions);
+        //driver.get("https://app.vwo.com/#/login");
+        // or
+        driver.navigate().to("https://app.vwo.com");
 
-      driver.manage().window().maximize();
-      String Title = driver.getTitle();
+        driver.manage().window().maximize();
+        String Title = driver.getTitle();
 
-      System.out.println("title" + Title);
-      System.out.println(driver.getTitle());
-      System.out.println(driver.getCurrentUrl());
+        System.out.println("title" + Title);
+        System.out.println(driver.getTitle());
+        System.out.println(driver.getCurrentUrl());
 
-      Assert.assertEquals(driver.getTitle(), "Login - VWO");
-      Assert.assertEquals(driver.getCurrentUrl(), "https://app.vwo.com/#/login");
+        Assert.assertEquals(driver.getTitle(), "Login - VWO");
+        Assert.assertEquals(driver.getCurrentUrl(), "https://app.vwo.com/#/login");
 
-      WebElement emailInpurBox  = driver.findElement(By.id("login-username"));
-     emailInpurBox.sendKeys("admin@admin.com");
-     WebElement passwordEnter = driver.findElement(By.id("login-password"));
-     passwordEnter.sendKeys("admin@password");
-     WebElement SubmitButton = driver.findElement(By.id("js-login-btn"));
-     SubmitButton.click();
-     // Verify thr error message
-       Thread.sleep(2000);
-    WebElement ErrorMessage = driver.findElement(By.id("js-notification-box-msg"));
-     //  WebElement ErrorMessage = driver.findElement(By.className("notification-box-description"));
+        WebElement emailInpurBox = driver.findElement(By.id("login-username"));
+        emailInpurBox.sendKeys("admin@admin.com");
+        WebElement passwordEnter = driver.findElement(By.id("login-password"));
+        passwordEnter.sendKeys("admin@password");
+        WebElement SubmitButton = driver.findElement(By.id("js-login-btn"));
+        SubmitButton.click();
+        // Verify thr error message
+        Thread.sleep(2000);
+        WebElement ErrorMessage = driver.findElement(By.id("js-notification-box-msg"));
+        //  WebElement ErrorMessage = driver.findElement(By.className("notification-box-description"));
 
-       String errormessages = ErrorMessage.getText();
-       System.out.println("error message " + " "+ errormessages);
+        String errormessages = ErrorMessage.getText();
+        System.out.println("error message " + " " + errormessages);
 
-       Assert.assertEquals(ErrorMessage.getText(),"Your email, password, IP address or location did not match");
+        Assert.assertEquals(ErrorMessage.getText(), "Your email, password, IP address or location did not match");
 
 
-       // id - , name , class not unique -->
-       // Link text and partial Link  -a tag anchor
-       // exchate name
-     //  WebElement freeTrailLink = driver.findElement(By.linkText("Start a free trial"));
-    //   freeTrailLink.click();
-       // partial  name
-       WebElement FreeTrailLinkParcial = driver.findElement(By.partialLinkText("Start a free tri"));
-       FreeTrailLinkParcial.click();
+        // id - , name , class not unique -->
+        // Link text and partial Link  -a tag anchor
+        // exchate name
+        //  WebElement freeTrailLink = driver.findElement(By.linkText("Start a free trial"));
+        //   freeTrailLink.click();
+        // partial  name
+        WebElement FreeTrailLinkParcial = driver.findElement(By.partialLinkText("Start a free tri"));
+        FreeTrailLinkParcial.click();
 
-       WebElement EnterBUssinationEmail = driver.findElement(By.id("page-v1-step1-email"));
-       EnterBUssinationEmail.sendKeys("123admin@admin.com");
-       WebElement Checkbox = driver.findElement(By.id("page-826cu-gdpr-consent-checkbox"));
-       Checkbox. click();
-       Thread.sleep(Long.parseLong("5000"));
+        WebElement EnterBUssinationEmail = driver.findElement(By.id("page-v1-step1-email"));
+        EnterBUssinationEmail.sendKeys("123admin@admin.com");
+        WebElement Checkbox = driver.findElement(By.id("page-826cu-gdpr-consent-checkbox"));
+        Checkbox.click();
+        Thread.sleep(Long.parseLong("5000"));
 
-      List<WebElement>  buttonList = driver.findElements(By.tagName("button"));
-       buttonList.get(0).click();
-         
+        List<WebElement> buttonList = driver.findElements(By.tagName("button"));
+        buttonList.get(0).click();
 
-       try {
-         Thread.sleep(5000);
-       }catch (InterruptedException e){
-           throw new RuntimeException(e);
-       }
-       driver.quit();
 
-   }
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.quit();
+
+    }
 
 }
 

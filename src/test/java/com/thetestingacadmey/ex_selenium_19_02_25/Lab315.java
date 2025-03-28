@@ -79,14 +79,15 @@ public class Lab315 {
         // Relative Xpath || CSS Selector
 
         // css selector
+        //  s-item__info clearfix
 
 
         // //*[@placeholder = "username"]
- // They are usefull when in the value -  some conststant and dynamic
+        // They are usefull when in the value -  some conststant and dynamic
         // title = "pra,od_1234".
         // starts-with --> pramod , contain  --> Partial match
         // img [contains{@title,"Flip"}]
-       //immg[starts-with(@title,"Flip")]
+        //immg[starts-with(@title,"Flip")]
         // substring- after
 
         // normalize-space = remove the title = " pramod "
@@ -103,7 +104,7 @@ public class Lab315 {
         // Xapth - Axes
         // Go the Parent or child when you khow about the Son
 
-        
+
         ////div [@class = 'Mammal']/child::div
 
 

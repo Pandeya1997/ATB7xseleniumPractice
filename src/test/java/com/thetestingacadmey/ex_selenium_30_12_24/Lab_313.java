@@ -18,14 +18,14 @@ public class Lab_313 {
         EdgeOptions edgeOptions = new EdgeOptions();
         edgeOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         edgeOptions.addArguments("--guest");
-       WebDriver driver = new EdgeDriver(edgeOptions);
-       driver.get("https://app.vwo.com/#/login");
+        WebDriver driver = new EdgeDriver(edgeOptions);
+        driver.get("https://app.vwo.com/#/login");
         System.out.println(driver.getTitle());
 
-       Thread.sleep(2000);
-       // Start a free trial
-       // find the element - id is not   , name is not , class not unique,
-       // link taxt and partial link - work only a tag
+        Thread.sleep(2000);
+        // Start a free trial
+        // find the element - id is not   , name is not , class not unique,
+        // link taxt and partial link - work only a tag
 
         WebElement freeTrailLink = driver.findElement(By.linkText("Start a free trial"));
         freeTrailLink.click();
@@ -40,7 +40,7 @@ public class Lab_313 {
         Thread.sleep(3000);
         WebElement errorMessage = driver.findElement(By.className("invalid-reason"));
         System.out.println(errorMessage.getText());
-        Assert.assertEquals(errorMessage.getText(),"An account with this email already exists. Login Here");
+        Assert.assertEquals(errorMessage.getText(), "An account with this email already exists. Login Here");
         driver.quit();
 
     }

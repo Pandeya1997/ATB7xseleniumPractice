@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class Lab298 {
     @Test
-    public void vwoLogin(){
+    public void vwoLogin() {
         EdgeDriver driver = new EdgeDriver();
         driver.get("https://courses.thetestingacademy.com/");
         driver.quit();

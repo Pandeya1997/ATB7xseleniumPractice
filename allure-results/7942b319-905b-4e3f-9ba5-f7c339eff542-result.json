@@ -1,1 +1,61 @@
-{"uuid":"7942b319-905b-4e3f-9ba5-f7c339eff542","historyId":"e8b1d9612eebae3c7cff84cd9e0ca0c2","fullName":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315.testMakeAppointment","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315"},{"name":"testMethod","value":"testMakeAppointment"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"9664@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"testMakeAppointment","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742380434862,"stop":1742380450848}
+{
+  "uuid": "7942b319-905b-4e3f-9ba5-f7c339eff542",
+  "historyId": "e8b1d9612eebae3c7cff84cd9e0ca0c2",
+  "fullName": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315.testMakeAppointment",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315"
+    },
+    {
+      "name": "testMethod",
+      "value": "testMakeAppointment"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "9664@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testMakeAppointment",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1742380434862,
+  "stop": 1742380450848
+}

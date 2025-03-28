@@ -1,1 +1,61 @@
-{"uuid":"769e270d-dda2-4a32-9fbd-98103cf05ec9","historyId":"1c1ae0602a33c05b79301630ef46ac26","fullName":"com.thetestingacadmey.ex_selenium_29_12_2024.Lab298.vwoLogin","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_29_12_2024.Lab298"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_29_12_2024.Lab298"},{"name":"testMethod","value":"vwoLogin"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_29_12_2024.Lab298"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"25324@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"vwoLogin","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1740662182314,"stop":1740662233270}
+{
+  "uuid": "769e270d-dda2-4a32-9fbd-98103cf05ec9",
+  "historyId": "1c1ae0602a33c05b79301630ef46ac26",
+  "fullName": "com.thetestingacadmey.ex_selenium_29_12_2024.Lab298.vwoLogin",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_29_12_2024.Lab298"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_29_12_2024.Lab298"
+    },
+    {
+      "name": "testMethod",
+      "value": "vwoLogin"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_29_12_2024.Lab298"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "25324@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "vwoLogin",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740662182314,
+  "stop": 1740662233270
+}

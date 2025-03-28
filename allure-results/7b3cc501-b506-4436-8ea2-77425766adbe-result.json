@@ -1,1 +1,61 @@
-{"uuid":"7b3cc501-b506-4436-8ea2-77425766adbe","historyId":"77f1f6c0254b2d4c7a586ed2a0a076c","fullName":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315_B.HelenBennettFind","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315_B"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315_B"},{"name":"testMethod","value":"HelenBennettFind"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_19_02_25.Lab315_B"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"21520@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"HelenBennettFind","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1742814113916,"stop":1742814117313}
+{
+  "uuid": "7b3cc501-b506-4436-8ea2-77425766adbe",
+  "historyId": "77f1f6c0254b2d4c7a586ed2a0a076c",
+  "fullName": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315_B.HelenBennettFind",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315_B"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315_B"
+    },
+    {
+      "name": "testMethod",
+      "value": "HelenBennettFind"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_19_02_25.Lab315_B"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "21520@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "HelenBennettFind",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1742814113916,
+  "stop": 1742814117313
+}

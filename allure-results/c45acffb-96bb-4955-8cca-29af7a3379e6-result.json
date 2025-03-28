@@ -1,1 +1,61 @@
-{"uuid":"c45acffb-96bb-4955-8cca-29af7a3379e6","historyId":"10005442f91f1194770ffccce0dcd556","fullName":"com.thetestingacadmey.ex_selenium_30_12_24.Lab_313.freeTrailLink","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"},{"name":"testMethod","value":"freeTrailLink"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"18696@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"freeTrailLink","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1741328089391,"stop":1741328111793}
+{
+  "uuid": "c45acffb-96bb-4955-8cca-29af7a3379e6",
+  "historyId": "10005442f91f1194770ffccce0dcd556",
+  "fullName": "com.thetestingacadmey.ex_selenium_30_12_24.Lab_313.freeTrailLink",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"
+    },
+    {
+      "name": "testMethod",
+      "value": "freeTrailLink"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "18696@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "freeTrailLink",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1741328089391,
+  "stop": 1741328111793
+}

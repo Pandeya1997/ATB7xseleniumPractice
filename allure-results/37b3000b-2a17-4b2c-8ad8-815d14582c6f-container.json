@@ -1,1 +1,35 @@
-{"uuid":"37b3000b-2a17-4b2c-8ad8-815d14582c6f","name":"Default Suite","children":["5833aa96-6f57-4ada-b918-23dc8467225b"],"befores":[{"name":"SetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742814046472,"stop":1742814048054}],"afters":[{"name":"terDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742814051611,"stop":1742814052892}],"start":1742814046456,"stop":1742814052892}
+{
+  "uuid": "37b3000b-2a17-4b2c-8ad8-815d14582c6f",
+  "name": "Default Suite",
+  "children": [
+    "5833aa96-6f57-4ada-b918-23dc8467225b"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1742814046472,
+      "stop": 1742814048054
+    }
+  ],
+  "afters": [
+    {
+      "name": "terDown",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1742814051611,
+      "stop": 1742814052892
+    }
+  ],
+  "start": 1742814046456,
+  "stop": 1742814052892
+}

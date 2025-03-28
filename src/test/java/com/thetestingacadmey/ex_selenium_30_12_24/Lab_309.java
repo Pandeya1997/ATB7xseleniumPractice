@@ -4,22 +4,21 @@ import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import org.testng.annotations.Test;
 
 public class Lab_309 {
     public static void main(String[] args) {
-     //   selenium
-     // Find the element and Interact
+        //   selenium
+        // Find the element and Interact
         // Command --> Target - IDE
 
         EdgeOptions options = new EdgeOptions();
-    options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+        options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         WebDriver driver = new EdgeDriver(options);
         driver.get("https://sa-admin-ui.jaigovinda7.com/login#/login");
         System.out.println(driver.getTitle());
         driver.quit();
 
 
-   }
+    }
 }
 

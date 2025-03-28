@@ -1,0 +1,62 @@
+{
+  "uuid": "4ea95c8d-75b6-4aad-ba01-b4541fa08fb2",
+  "historyId": "e8726c26de5c403abb44861173300cd7",
+  "fullName": "com.thetestingacadmey.ex_selenium_24_03_2025.Lab_317.Login",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_24_03_2025.Lab_317"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_24_03_2025.Lab_317"
+    },
+    {
+      "name": "testMethod",
+      "value": "Login"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_24_03_2025.Lab_317"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "21168@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Test case Description ",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1743155871709,
+  "stop": 1743155881466
+}

@@ -1,6 +1,5 @@
 package com.thetestingacadmey.ex_selenium_30_12_24;
 
-import org.openqa.selenium.Proxy;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;

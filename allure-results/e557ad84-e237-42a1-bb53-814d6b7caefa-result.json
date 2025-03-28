@@ -1,1 +1,61 @@
-{"uuid":"e557ad84-e237-42a1-bb53-814d6b7caefa","historyId":"e09c31dcc6c3f7f5094ceea62af2f5d4","fullName":"com.thetestingacadmey.ex_selenium_30_12_24.Lab_313.testVwoLoginNegative","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"},{"name":"testMethod","value":"testVwoLoginNegative"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"12176@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"testVwoLoginNegative","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1741254719893,"stop":1741254740063}
+{
+  "uuid": "e557ad84-e237-42a1-bb53-814d6b7caefa",
+  "historyId": "e09c31dcc6c3f7f5094ceea62af2f5d4",
+  "fullName": "com.thetestingacadmey.ex_selenium_30_12_24.Lab_313.testVwoLoginNegative",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"
+    },
+    {
+      "name": "testMethod",
+      "value": "testVwoLoginNegative"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_30_12_24.Lab_313"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "12176@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testVwoLoginNegative",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1741254719893,
+  "stop": 1741254740063
+}

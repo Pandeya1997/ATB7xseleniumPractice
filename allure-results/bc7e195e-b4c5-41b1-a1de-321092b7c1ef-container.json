@@ -1,1 +1,11 @@
-{"uuid":"bc7e195e-b4c5-41b1-a1de-321092b7c1ef","name":"com.thetestingacadmey.ex_selenium_30_12_24.Lab_311","children":["1da5ede0-aff2-48d3-b3fc-be21376e052b"],"befores":[],"afters":[],"start":1736614254720,"stop":1736614273365}
+{
+  "uuid": "bc7e195e-b4c5-41b1-a1de-321092b7c1ef",
+  "name": "com.thetestingacadmey.ex_selenium_30_12_24.Lab_311",
+  "children": [
+    "1da5ede0-aff2-48d3-b3fc-be21376e052b"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1736614254720,
+  "stop": 1736614273365
+}
