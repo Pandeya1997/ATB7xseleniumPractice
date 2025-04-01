@@ -37,29 +37,6 @@ public class Selenium_wait_Explicity {
         sendButton.click();
 
     }
-    // Thread.Sleep(5000) --> JVM Stop 5 second then required to waits
-// Whey do we Need waits in Selenium
-    // Thread.sleep().JAVM to stop the execution
-    // do that
-
-    // Implicit Wait  - Bad
-    // Implicit Wait, Explicit Wait, and Fluent Wait in Selenium
-
-    // implicit Waits :- driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-
-    // Explicit Wait
-    // WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-    //WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("example")));
-
-    //  Fluent Wait
-//    Wait<WebDriver> wait = new FluentWait<>(driver)
-//            .withTimeout(Duration.ofSeconds(30))  // Maximum wait time
-//            .pollingEvery(Duration.ofSeconds(5))  // Check every 5 seconds
-//            .ignoring(NoSuchElementException.class); // Ignore specific exceptions
-//
-//    WebElement element = wait.until(ExpectedConditions.elementToBeClickable(By.id("example")));
-
-
     @AfterTest
     public void closedBrowser() {
         try {
