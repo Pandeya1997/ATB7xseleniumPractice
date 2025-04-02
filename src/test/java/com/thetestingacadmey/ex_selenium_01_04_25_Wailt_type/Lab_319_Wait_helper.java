@@ -19,10 +19,10 @@ public class Lab_319_Wait_helper {
     WebDriver driver;
 
     @BeforeSuite
-    public void OpenBrowser() {  // ❌ Fix: Missing parentheses ()
+    public void OpenBrowser() {  //
         options = new EdgeOptions();
         options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
-        options.addArguments("--guest");  // ❌ Fix: This should be before driver initialization
+        options.addArguments("--guest");  //
         driver = new EdgeDriver(options);
         driver.manage().window().maximize();
     }
@@ -41,14 +41,14 @@ public class Lab_319_Wait_helper {
         checkVisibility(driver, By.cssSelector("[data-qa='lufexuloga']"));
     }
 
-    public void checkVisibility(WebDriver driver, By locator) {  // ✅ Corrected: Method should be defined
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));  // ✅ Use Duration.ofSeconds() for timeout
+    public void checkVisibility(WebDriver driver, By locator) {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));  //
         WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
         System.out.println("Element is visible: "+ element.isDisplayed());
     }
 
     @AfterSuite
-    public void ClosedBrowser() {  // ❌ Fix: Missing parentheses ()
+    public void ClosedBrowser() {
         driver.quit();
     }
 }

@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b65aa022-1cb7-4a23-9489-3f847db197f3" name="Changes" comment="update code">
-      <change afterPath="$PROJECT_DIR$/allure-results/048e271a-a6ad-495e-be30-940d06d6b869-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0aebecd9-0d0a-4941-8c98-5d6545876467-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1f276e83-4e8c-4d67-8aa1-79fe7eecf673-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/288fea39-c01c-428d-bdfb-1dd4b21c439a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/30677e14-fa5f-4f7d-8ede-d33c94b46a14-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3feb0414-673f-46b0-bf40-30a04d834651-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/458c356a-9a82-4065-8cfa-e007515d66b5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5ca2cc54-d29a-4d42-b223-fd605d79b1ef-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5f783bf3-4865-443d-96d3-4959766a02af-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/67a01f8b-85d4-410b-8ddf-ad034ee85ff1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/681e80c6-fbf7-430d-9677-2665422fd8b9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7b70ee96-8968-4871-86bc-1d86e33f2da5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7d3d1377-9381-494c-af9b-e5aa79dd903a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7ee7324e-8ae5-45af-b964-580b62c807f5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8b3b51cf-ef8f-4263-b01a-ed165bd7b6b5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a9da2e60-cf55-4874-ab11-1ba195ee1d85-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/be898b94-2459-4208-836e-4ae2d798e294-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c3ebe694-2a89-4cff-abfd-e017bc456f0e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c6b0f6a6-3e30-44a2-a9c3-7fb047895fb7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ce511119-32c5-44ae-8e4d-2765638cbd4f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d3245a7f-a61f-4da7-b18f-6919df6da8b6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ed827f95-2f99-4a57-a550-4e5bf4dd8794-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f459a770-8845-470d-a8f8-20e9562b0377-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fb155035-a13c-40b8-aaf4-d291bd12e1aa-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_01_04_25_Wailt_type/Lab_319_Wait_helper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_01_04_25_Wailt_type/Lab_318.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_01_04_25_Wailt_type/Lab_318.java" afterDir="false" />
-    </list>
+    <list default="true" id="b65aa022-1cb7-4a23-9489-3f847db197f3" name="Changes" comment="update code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
