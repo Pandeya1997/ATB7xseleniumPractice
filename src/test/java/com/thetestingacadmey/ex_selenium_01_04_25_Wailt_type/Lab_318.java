@@ -9,6 +9,8 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
+import java.util.concurrent.TimeUnit;
+
 public class Lab_318 {
     EdgeOptions options;
     WebDriver driver;
@@ -22,6 +24,9 @@ public class Lab_318 {
     @Test
     @Description("")
     public void VWOLogin(){
+ // driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        // Explicit Wait
+  driver.get("https://www.ebay.com/");
 
     }
     @AfterSuite

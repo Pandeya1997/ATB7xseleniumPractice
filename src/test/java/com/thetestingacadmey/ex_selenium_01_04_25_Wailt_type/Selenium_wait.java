@@ -41,7 +41,7 @@ public class Selenium_wait {
 // Whey do we Need waits in Selenium
     // Thread.sleep().JAVM to stop the execution
     // do that
-
+// inplicit wait - browser wait
     // Implicit Wait  - Bad
     // Implicit Wait, Explicit Wait, and Fluent Wait in Selenium
 
