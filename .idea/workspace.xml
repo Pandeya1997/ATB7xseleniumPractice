@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b65aa022-1cb7-4a23-9489-3f847db197f3" name="Changes" comment="update code">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_03_04_25/Lab_320.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_03_04_25/Lab_320.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_03_04_25/Lab_320.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +76,7 @@
     "TestNG.Lab_317.executor": "Run",
     "TestNG.Lab_318.VWOLogin.executor": "Run",
     "TestNG.Lab_319_Wait_helper.executor": "Run",
+    "TestNG.Lab_320.executor": "Run",
     "TestNG.Selenium_wait.login.executor": "Run",
     "TestNG.Selenium_wait_Explicity.executor": "Run",
     "git-widget-placeholder": "Staging",

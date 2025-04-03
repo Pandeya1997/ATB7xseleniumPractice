@@ -36,7 +36,8 @@ public class Lab_320 {
         WebElement element_select = driver.findElement(By.id("dropdown"));
         Select select = new Select(element_select);
         select.selectByIndex(2);
-
+      // HTML Select TAG ID USED
+        // Select Tag is not - Another Mechanism
     }
    @AfterSuite
    public void ClosedBrowser(){
