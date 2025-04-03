@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b65aa022-1cb7-4a23-9489-3f847db197f3" name="Changes" comment="update code" />
+    <list default="true" id="b65aa022-1cb7-4a23-9489-3f847db197f3" name="Changes" comment="update code">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_03_04_25/Lab_320.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,25 +99,7 @@
       <recent name="com.thetestingacadmey.ex_selenium_30_12_24" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lab_319_Wait_helper">
-    <configuration name="Lab_317.Login" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB7xseleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_24_03_2025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_24_03_2025" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_24_03_2025.Lab_317" />
-      <option name="METHOD_NAME" value="Login" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Lab_320">
     <configuration name="Lab_318.VWOLogin" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB7xseleniumPractice" />
       <extension name="coverage">
@@ -143,6 +128,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type" />
       <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Lab_319_Wait_helper" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_320" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB7xseleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_03_04_25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_03_04_25" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_03_04_25.Lab_320" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -187,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Lab_320" />
         <item itemvalue="TestNG.Lab_319_Wait_helper" />
         <item itemvalue="TestNG.Lab_318.VWOLogin" />
         <item itemvalue="TestNG.Selenium_wait_Explicity" />
         <item itemvalue="TestNG.Selenium_wait.login" />
-        <item itemvalue="TestNG.Lab_317.Login" />
       </list>
     </recent_temporary>
   </component>
