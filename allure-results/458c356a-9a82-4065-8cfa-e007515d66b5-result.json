@@ -1,1 +1,62 @@
-{"uuid":"458c356a-9a82-4065-8cfa-e007515d66b5","historyId":"fe2b2d58e6dc835cacd85c276b54f4bc","fullName":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Lab_318.VWOLogin","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Lab_318"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Lab_318"},{"name":"testMethod","value":"VWOLogin"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Lab_318"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"17024@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"VWOLogin","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"Explicit wait Post Test Case - VWO Login","steps":[],"attachments":[],"parameters":[],"start":1743595662216,"stop":1743595671345}
+{
+  "uuid": "458c356a-9a82-4065-8cfa-e007515d66b5",
+  "historyId": "fe2b2d58e6dc835cacd85c276b54f4bc",
+  "fullName": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Lab_318.VWOLogin",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Lab_318"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Lab_318"
+    },
+    {
+      "name": "testMethod",
+      "value": "VWOLogin"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Lab_318"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "17024@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "VWOLogin",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Explicit wait Post Test Case - VWO Login",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1743595662216,
+  "stop": 1743595671345
+}

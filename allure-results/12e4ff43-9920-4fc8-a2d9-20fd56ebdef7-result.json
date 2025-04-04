@@ -1,1 +1,61 @@
-{"uuid":"12e4ff43-9920-4fc8-a2d9-20fd56ebdef7","historyId":"8fa534d71cc57536eae363a45709e095","fullName":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait.login","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait"},{"name":"testMethod","value":"login"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"33440@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"login","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1743507590225,"stop":1743507593774}
+{
+  "uuid": "12e4ff43-9920-4fc8-a2d9-20fd56ebdef7",
+  "historyId": "8fa534d71cc57536eae363a45709e095",
+  "fullName": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait.login",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "33440@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1743507590225,
+  "stop": 1743507593774
+}

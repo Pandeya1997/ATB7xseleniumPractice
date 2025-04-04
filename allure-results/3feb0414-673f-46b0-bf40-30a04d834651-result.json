@@ -1,1 +1,62 @@
-{"uuid":"3feb0414-673f-46b0-bf40-30a04d834651","historyId":"6f688d02fab2329869b954932a9ae8c","fullName":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait_Explicity.login","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait_Explicity"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait_Explicity"},{"name":"testMethod","value":"login"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait_Explicity"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"27264@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"login","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"Implicity Wait ","steps":[],"attachments":[],"parameters":[],"start":1743595637063,"stop":1743595643356}
+{
+  "uuid": "3feb0414-673f-46b0-bf40-30a04d834651",
+  "historyId": "6f688d02fab2329869b954932a9ae8c",
+  "fullName": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait_Explicity.login",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait_Explicity"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait_Explicity"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Selenium_wait_Explicity"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "27264@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Implicity Wait ",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1743595637063,
+  "stop": 1743595643356
+}

@@ -1,5 +1,6 @@
 package com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type;
-import io.qameta.allure.Description; // Correct import for Allure reporting
+
+import io.qameta.allure.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -44,7 +45,7 @@ public class Lab_319_Wait_helper {
     public void checkVisibility(WebDriver driver, By locator) {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));  //
         WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
-        System.out.println("Element is visible: "+ element.isDisplayed());
+        System.out.println("Element is visible: " + element.isDisplayed());
     }
 
     @AfterSuite

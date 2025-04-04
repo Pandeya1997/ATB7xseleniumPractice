@@ -15,30 +15,31 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
 import java.time.Duration;
-import java.util.concurrent.TimeUnit;
 
 public class Lab_318 {
     EdgeOptions options;
     WebDriver driver;
+
     @BeforeSuite
-    public void OpenBrowser(){
+    public void OpenBrowser() {
         options = new EdgeOptions();
         options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         driver = new EdgeDriver(options);
         driver.manage().window().maximize();
     }
+
     @Test
     @Description("Explicit wait Post Test Case - VWO Login")
-    public void VWOLogin(){
+    public void VWOLogin() {
         // Explicit Wait
-  driver.get("https://app.vwo.com/#/login");
-  String Title = driver.getTitle();
-  System.out.println("VWO Login Title:- " + Title);
-  driver.findElement(By.id("login-username")).sendKeys("contact+atb7x@thetestingacademy.com");
-  driver.findElement(By.id("login-password")).sendKeys("Wingify@1234");
-  driver.findElement(By.id("js-login-btn")).click();
+        driver.get("https://app.vwo.com/#/login");
+        String Title = driver.getTitle();
+        System.out.println("VWO Login Title:- " + Title);
+        driver.findElement(By.id("login-username")).sendKeys("contact+atb7x@thetestingacademy.com");
+        driver.findElement(By.id("login-password")).sendKeys("Wingify@1234");
+        driver.findElement(By.id("js-login-btn")).click();
 // wait for DashBoard to load
-      //  span[data-qa="lufexuloga"]
+        //  span[data-qa="lufexuloga"]
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(300));
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("span[data-qa=\"lufexuloga\"]")));
 // Find the WebElement
@@ -48,13 +49,13 @@ public class Lab_318 {
         System.out.println(Username);
         //or
         System.out.println(driver.findElements(By.cssSelector("span[data-qa=\"lufexuloga\"]")).get(0).getText());
-        Assert.assertEquals(Username,"Aman Ji");
-
+        Assert.assertEquals(Username, "Aman Ji");
 
 
     }
+
     @AfterSuite
-    public void ClosedBroser(){
+    public void ClosedBroser() {
         try {
             Thread.sleep(5000);
         } catch (InterruptedException e) {

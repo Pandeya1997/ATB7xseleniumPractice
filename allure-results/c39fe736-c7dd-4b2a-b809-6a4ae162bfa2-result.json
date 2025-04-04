@@ -1,0 +1,62 @@
+{
+  "uuid": "c39fe736-c7dd-4b2a-b809-6a4ae162bfa2",
+  "historyId": "36e816197a16f9df21cddb2002f271a7",
+  "fullName": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_321.Herokupap",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_321"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_321"
+    },
+    {
+      "name": "testMethod",
+      "value": "Herokupap"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_321"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "27180@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Herokupap",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "The Test Case Describe Drop-Dwon",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1743751717513,
+  "stop": 1743751721726
+}

@@ -19,33 +19,36 @@ public class Lab_320 {
     WebDriver driver;
 
     @BeforeSuite
-    public void OpenBrowser(){
+    public void OpenBrowser() {
         options = new EdgeOptions();
         options.addArguments("--guest");
         options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         driver = new EdgeDriver(options);
         driver.manage().window().maximize();
     }
+
     @Test
     @Description("The Test Case Describe Drop-Dwon")
-    public void Herokupap(){
-        driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+    public void Herokupap() {
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         driver.get("https://the-internet.herokuapp.com/dropdown");
-        System.out.println("Title"+driver.getTitle());
+        System.out.println("Title" + driver.getTitle());
 
         WebElement element_select = driver.findElement(By.id("dropdown"));
         Select select = new Select(element_select);
         select.selectByIndex(2);
-      // HTML Select TAG ID USED
+        //select.selectByVisibleText("option 2");
+        // HTML Select TAG ID USED
         // Select Tag is not - Another Mechanism
     }
-   @AfterSuite
-   public void ClosedBrowser(){
-       try {
-           Thread.sleep(5000);
-       } catch (InterruptedException e) {
-           throw new RuntimeException(e);
-       }
-       driver.quit();
-   }
+
+    @AfterSuite
+    public void ClosedBrowser() {
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+        driver.quit();
+    }
 }

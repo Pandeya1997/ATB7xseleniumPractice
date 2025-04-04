@@ -1,0 +1,62 @@
+{
+  "uuid": "74296cad-b16e-406d-88f7-0b4c1d131d45",
+  "historyId": "ccb25ee3fbcf878755b803e7ee161f84",
+  "fullName": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_322.Herokupap",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_322"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_322"
+    },
+    {
+      "name": "testMethod",
+      "value": "Herokupap"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_322"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "16544@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Herokupap",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "The Test Case Describe Arlt message Accept / cancel ",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1743758846230,
+  "stop": 1743758850449
+}

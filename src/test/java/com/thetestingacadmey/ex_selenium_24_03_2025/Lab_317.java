@@ -79,10 +79,9 @@ public class Lab_317 {
         //div.fist
 
 
-
         // select --> simple, custom select(div, ui-li) diffrent appraoch)
         //
- // waits
+        // waits
 
     }
 

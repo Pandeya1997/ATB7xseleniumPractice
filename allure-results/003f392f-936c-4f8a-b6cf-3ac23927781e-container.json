@@ -1,0 +1,35 @@
+{
+  "uuid": "003f392f-936c-4f8a-b6cf-3ac23927781e",
+  "name": "Default Suite",
+  "children": [
+    "ac101b8d-b226-45e0-a0b7-e119f48b421e"
+  ],
+  "befores": [
+    {
+      "name": "OpenBrowser",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1743758844062,
+      "stop": 1743758846113
+    }
+  ],
+  "afters": [
+    {
+      "name": "ClosedBrowser",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1743758850539,
+      "stop": 1743758860908
+    }
+  ],
+  "start": 1743758844036,
+  "stop": 1743758860909
+}

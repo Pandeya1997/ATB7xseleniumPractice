@@ -1,1 +1,35 @@
-{"uuid":"ba76dffb-7679-49fc-8218-a460c7232c07","name":"ATB7xseleniumPractice","children":["17150815-5b80-421c-98ed-5463fa69b943"],"befores":[{"name":"OpenBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1743513935139,"stop":1743513938218}],"afters":[{"name":"closedBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1743513943115,"stop":1743513949496}],"start":1743513935124,"stop":1743513949496}
+{
+  "uuid": "ba76dffb-7679-49fc-8218-a460c7232c07",
+  "name": "ATB7xseleniumPractice",
+  "children": [
+    "17150815-5b80-421c-98ed-5463fa69b943"
+  ],
+  "befores": [
+    {
+      "name": "OpenBrowser",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1743513935139,
+      "stop": 1743513938218
+    }
+  ],
+  "afters": [
+    {
+      "name": "closedBrowser",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1743513943115,
+      "stop": 1743513949496
+    }
+  ],
+  "start": 1743513935124,
+  "stop": 1743513949496
+}
