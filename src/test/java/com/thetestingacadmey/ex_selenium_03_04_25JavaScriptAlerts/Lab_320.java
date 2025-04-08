@@ -1,4 +1,4 @@
-package com.thetestingacadmey.ex_selenium_03_04_25;
+package com.thetestingacadmey.ex_selenium_03_04_25JavaScriptAlerts;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;

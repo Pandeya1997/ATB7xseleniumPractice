@@ -1,4 +1,4 @@
-package com.thetestingacadmey.ex_selenium_03_04_25;
+package com.thetestingacadmey.ex_selenium_03_04_25JavaScriptAlerts;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.*;
@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
-public class Lab_322 {
+public class Lab_323_conformation_Promtp {
     EdgeOptions options;
     WebDriver driver;
 
@@ -28,33 +28,38 @@ public class Lab_322 {
     }
 
     @Test
-    @Description("The Test Case Describe Arlt confomation  message Accept / cancel ")
-    public void Herokupap() {
+    @Description("The Test Case Describe Arlt conformation_Promtp ")
+    public void element_Promtp() throws Exception{
         driver.manage().timeouts().implicitlyWait(200, TimeUnit.SECONDS);
 
         driver.get("https://the-internet.herokuapp.com/javascript_alerts");
         System.out.println("Title" + driver.getTitle());
         //button[onclick="jsConfirm()"]
-        WebElement element_Confirm = driver.findElement(By.cssSelector("button[onclick=\"jsConfirm()\"]"));
-        element_Confirm.click();
+        WebElement element_Promtp = driver.findElement(By.xpath("//button[@onclick=\"jsPrompt()\"]"));
+
+        element_Promtp.click();
+        Thread.sleep(5000);
+
         // AWS , Docker,
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(3));
         wait.until(ExpectedConditions.alertIsPresent());
 
         Alert alert = driver.switchTo().alert();
-        //  alert.accept();
-        alert.dismiss();
+        alert.sendKeys("Abhhishek");
+        alert.accept();
 
         String result = driver.findElement(By.id("result")).getText();
 
-        Assert.assertEquals(result, "You clicked: Cancel");
+        Assert.assertEquals(result, "You entered: Abhhishek");
+
+        System.out.println(result);
 
     }
 
     @AfterSuite
     public void ClosedBrowser() {
         try {
-            Thread.sleep(9000);
+            Thread.sleep(3000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }

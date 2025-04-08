@@ -1,4 +1,4 @@
-package com.thetestingacadmey.ex_selenium_03_04_25;
+package com.thetestingacadmey.ex_selenium_03_04_25JavaScriptAlerts;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.*;
@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
-public class Lab_321 {
+public class Lab_322 {
     EdgeOptions options;
     WebDriver driver;
 
@@ -28,24 +28,26 @@ public class Lab_321 {
     }
 
     @Test
-    @Description("The Test Case Describe Arlt message click ")
+    @Description("The Test Case Describe Arlt confomation  message Accept / cancel ")
     public void Herokupap() {
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(200, TimeUnit.SECONDS);
+
         driver.get("https://the-internet.herokuapp.com/javascript_alerts");
         System.out.println("Title" + driver.getTitle());
-        // button[onclick="jsAlert()"]
-        WebElement element_Alert = driver.findElement(By.cssSelector("button[onclick=\"jsAlert()\"]"));
-        element_Alert.click();
-
+        //button[onclick="jsConfirm()"]
+        WebElement element_Confirm = driver.findElement(By.cssSelector("button[onclick=\"jsConfirm()\"]"));
+        element_Confirm.click();
         // AWS , Docker,
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.alertIsPresent());
 
         Alert alert = driver.switchTo().alert();
-        alert.accept();
+        //  alert.accept();
+        alert.dismiss();
 
         String result = driver.findElement(By.id("result")).getText();
-        Assert.assertEquals(result, "You successfully clicked an alert");
+
+        Assert.assertEquals(result, "You clicked: Cancel");
 
     }
 

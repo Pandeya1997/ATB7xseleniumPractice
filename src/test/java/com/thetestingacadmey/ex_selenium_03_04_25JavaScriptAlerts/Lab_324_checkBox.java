@@ -1,20 +1,18 @@
-package com.thetestingacadmey.ex_selenium_03_04_25;
+package com.thetestingacadmey.ex_selenium_03_04_25JavaScriptAlerts;
 
 import io.qameta.allure.Description;
+import io.qameta.allure.Link;
 import org.openqa.selenium.*;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-import java.time.Duration;
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class Lab_323_conformation_Promtp {
+public class Lab_324_checkBox {
     EdgeOptions options;
     WebDriver driver;
 
@@ -28,31 +26,16 @@ public class Lab_323_conformation_Promtp {
     }
 
     @Test
-    @Description("The Test Case Describe Arlt message Accept / cancel ")
+    @Description("The Test Case Describe check Box  ")
     public void element_Promtp() throws Exception{
         driver.manage().timeouts().implicitlyWait(200, TimeUnit.SECONDS);
 
-        driver.get("https://the-internet.herokuapp.com/javascript_alerts");
+        driver.get("https://the-internet.herokuapp.com/checkboxes");
         System.out.println("Title" + driver.getTitle());
-        //button[onclick="jsConfirm()"]
-        WebElement element_Promtp = driver.findElement(By.xpath("//button[@onclick=\"jsPrompt()\"]"));
+        List<WebElement> checkBoxes = driver.findElements(By.cssSelector("input[type=\"checkbox\"]"));
+       // checkBoxes.get(0).click();
+        checkBoxes.get(1).click();
 
-        element_Promtp.click();
-        Thread.sleep(5000);
-
-        // AWS , Docker,
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(3));
-        wait.until(ExpectedConditions.alertIsPresent());
-
-        Alert alert = driver.switchTo().alert();
-        alert.sendKeys("Abhhishek");
-        alert.accept();
-
-        String result = driver.findElement(By.id("result")).getText();
-
-        Assert.assertEquals(result, "You entered: Abhhishek");
-
-        System.out.println(result);
 
     }
 
