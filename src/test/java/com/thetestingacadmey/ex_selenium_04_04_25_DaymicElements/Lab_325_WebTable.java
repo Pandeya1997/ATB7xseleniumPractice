@@ -27,7 +27,7 @@ public class Lab_325_WebTable {
     }
 
     @Test
-    @Description("Dynamic Element Finding in Web Table")
+    @Description("Dynamic Element Finding in static Web Table")
     public void dynamicElementFind() {
         driver.get("https://awesomeqa.com/webtable.html");
         System.out.println("Page Title: " + driver.getTitle());
