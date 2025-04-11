@@ -33,6 +33,7 @@ public class Lab327 {
     @Description()
     public void  webtable(){
         driver.get("https://awesomeqa.com/webtable1.html");
+      //  xpath ; // table [@summary="Sample Table"]/tbody
         WebElement table = driver.findElement(By.xpath("//table[@summary=\"Sample Table\"]/tbody"));
         List<WebElement> rows_tables = table.findElements(By.tagName("tr"));
         System.out.println(rows_tables.size());
@@ -44,9 +45,8 @@ public class Lab327 {
      }
         }
 
-
-
     }
+
     @AfterSuite
     public void ClosedBrowser(){
         try {
