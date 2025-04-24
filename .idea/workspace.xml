@@ -5,53 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b65aa022-1cb7-4a23-9489-3f847db197f3" name="Changes" comment="update code">
-      <change afterPath="$PROJECT_DIR$/allure-results/03d28256-1483-4e4e-ac62-ca0bb15c0551-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/03fa9ce2-4d56-4bca-9766-77cba3cd5c06-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/152cd252-1866-4673-926f-8d635cbdb035-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1a356fa1-ba8c-4a8d-b1f7-b33cf3148af2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/20cbba44-8ebf-4a44-9282-6012be1dbc64-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/32cbf788-1214-4d3d-bd41-e43ab69532c8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3bda1a5f-9b57-4b32-a907-1a6cd7b5a9f0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3c339b18-3ba0-4dc1-b920-1481378223f4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/483bbe0b-b847-4e99-a591-4f2c608affd9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4b3d5f2e-fe75-43dc-ac4b-201beea442b6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4c610e36-3b39-4b5f-aa49-49d86e89ed29-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5264b8b4-919f-4969-8884-53c6768b81b9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/58d8dee6-b1b4-45af-b0fa-6c89c36a1ea7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5d4867b2-7495-4ec5-b30c-64241517b0e7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/683d4134-68cd-416d-a461-4bea21e32dfc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/696e9c27-e802-47eb-9c0c-4b6db44d1af4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/69de33ff-7608-4b47-b64a-7637563fb26c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6a9a8ef2-284b-4a96-8b85-d8563233f5bd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6bb89c29-9ba3-46f7-a099-2af283e78083-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6db04de0-0893-4b00-a6cd-0d35ebc9812c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/73c9bf12-b5b2-4fa8-b6fc-fb2718f5ab8a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/75e0513c-e21f-4e07-b729-10982408d4f1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/77907c5c-906f-42f8-bb5c-650188f0a23b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/78dd81bf-74ce-48ee-8932-ff34bf75672b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/83601fa1-96b4-4dd6-b81f-78b76e5e649f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9b173a19-86be-4221-ae17-eeb02dc51387-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a44fca32-6c29-4409-bd06-680c43cce51f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a81baf96-042c-4c89-ad86-28bf48d7e1de-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/aa3b151e-0605-40ad-92a7-3f56ff9534cc-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b30ef5e4-9190-42ae-a284-d52711e1a0e9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/bba20cc5-b66f-4de8-9a83-ca211f05fdc7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c3bed227-5666-4119-b5de-713079e1503f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c4d307ad-64ff-4d22-89bf-ac8895f58c2d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ccf73acf-c52d-42d7-a434-988872ce277c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cf6b1a05-0847-468e-a263-a451fc76f598-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d01f41fa-8e68-4e04-b3d0-a1d7ed6a5a12-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d381d1fe-2521-401e-9e61-92345ae3b829-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d93a47de-d40d-48b4-a9d3-f368169ac02b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/df3c0a3e-c746-4a57-b0df-3c8ed1cd8a07-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/dfe24356-e302-4a0a-af17-05ab5895c38b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e4474b5e-887c-44bf-b8e5-0ff93444ca89-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f407a51f-ba8d-4531-ae54-d1422f501195-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f4b850e1-82fc-4702-b765-f0f7e703de10-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fd3eae4a-06b7-41cc-8e0b-daf9e6c629ee-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_08_04_2025/SVG/Lab_328.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_08_04_2025/SVG/Lab_329.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_24_04_25/SVG/Lab_330.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_08_04_2025/SVG/Lab_328.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_08_04_2025/SVG/Lab_328.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +123,7 @@
       <recent name="com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lab_329">
+  <component name="RunManager" selected="TestNG.Lab_328.SVG">
     <configuration name="Lab327" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB7xseleniumPractice" />
       <extension name="coverage">
@@ -257,8 +213,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Lab_329" />
         <item itemvalue="TestNG.Lab_328.SVG" />
+        <item itemvalue="TestNG.Lab_329" />
         <item itemvalue="TestNG.Lab327" />
         <item itemvalue="TestNG.Lab_326_WebTable.dynamicElementFind" />
         <item itemvalue="TestNG.Lab_325_WebTable" />

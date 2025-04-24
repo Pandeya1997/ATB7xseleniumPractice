@@ -29,9 +29,11 @@ public class Lab_328 {
      driver.get("https://www.flipkart.com/");
         driver.findElement(By.name("q")).sendKeys("macmini");
        // List<WebElement> svgElements = driver.findElements(By.xpath("//*[local-name()= \"svg\"]"));
-       List<WebElement> svgElements = driver.findElements(By.xpath("//*[name()= \"svg\"]"));
-        svgElements.get(0).click();
+       //or
+//       List<WebElement> svgElements = driver.findElements(By.xpath("//*[name()= \"svg\"]"));
+//        svgElements.get(0).click();
 
+driver.findElement(By.xpath("//button [@title=\"Search for Products, Brands and More\"]//*[name()='svg']")).click();
 
    }
 
