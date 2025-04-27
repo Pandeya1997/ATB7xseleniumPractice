@@ -5,9 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b65aa022-1cb7-4a23-9489-3f847db197f3" name="Changes" comment="update code">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_24_04_25/SVG/Lab_330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0160cd0e-cbb4-4496-a9ea-cd324107b5e5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0346b743-3e22-4e75-9038-9dbdd33704b3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/04c1f591-1481-45de-8646-cdeaef5a3234-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0eef6653-ff7a-406c-86d0-e25137ad7820-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/13608fe1-fb13-4ebf-9f06-2efa8b393b28-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/18946aaf-76ac-4598-b55d-3911bef0cab6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ae7b908-2b8f-4de7-a335-eeac6b2f77ae-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b5c0377-76b0-46ee-883a-e53797bfdf76-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1d58eb20-5e28-410c-9975-7c04996faf75-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1d76c42d-bf39-41bf-95a4-9379091dda4d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ecb4c02-f6ea-477d-8156-949f26b2586d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/26cb25ce-1ddb-4252-90a3-fc8a8cdb147a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2aa48ea9-2e2f-4b2e-8172-32a1655b7df2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2f1d3492-b6b9-4423-8189-49dcbaea7613-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/31b19fbc-9c61-47cf-a184-ef63b6c26a1a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/36a61a05-a6e3-4ab1-b388-f01b8c19f864-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3ef8ff29-a81d-4a73-96d1-2a896c11aa6d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/402d844b-ce2a-4382-abfa-84f0d7f25a91-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4268e68a-2998-448e-a8d7-029f4c5ed6a2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/500725e6-d568-46e2-9223-fd924d766166-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/555459e4-2fcd-4202-aa4b-2eb1f21e26ab-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5c76af36-3b03-42ef-a30a-3f8d33907560-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5d2ae246-2d68-48a1-a5cd-1d1cca6d8809-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/62681ebe-afa1-4f22-bfb3-4c03c5f154dc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/658389f6-4888-4d19-b366-9ea97f2b3494-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/66c9f3be-e562-4712-b78b-c6b8cc979504-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6f72a627-64d6-48d9-84d4-3828e74f005b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/747e0bd6-372e-4dd1-8432-a7b2dd359db8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/771e83fd-86f7-4f40-bceb-bfd5b1a718b3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7a04703e-2734-4b2b-9fbc-911b6c0b4111-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7c28d1c2-a1bc-4f7d-8033-74b49da0ca5e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/80b9224c-c92d-4922-bd1d-13972969d13d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/832882ab-495b-4fce-9f01-ea19a356587f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/86464317-3309-4b66-90c5-8c9e89037050-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/86939ad8-0139-4f9b-b03b-97f0571af953-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/89e2c55d-07f8-4c06-a0ae-f5404a9dea30-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8b42990f-23c8-48ce-ac07-c1dd34ad69ad-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9c639c3b-4bf6-4302-b028-e6f483c4c174-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a1ee91ec-7b6b-48bd-99e2-ce3f928014e1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/af5ab5aa-6566-486d-bf8b-c9a63bd20a8f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b4c1da00-7003-4d10-9421-262564a71475-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b63fcaf1-7028-4785-b243-44abd53014ba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bcd7c529-2e5f-498f-bc79-4b01db51abb8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bcf570c8-cd65-4d08-9951-f3a4beb5389c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bd2c2990-3230-4baf-81dd-826c572b7dcf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/be49db6b-8421-471f-9e1c-6f629551a6fb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c7a73694-228b-4671-94cc-62491703a791-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c7c5314b-ca96-4cea-b23e-3025a55a5054-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c86bdf13-a0f6-4172-b5f7-8c0612422873-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c9529392-5bb5-44aa-b762-287ca770fae3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cdd898f4-2b4f-4352-a433-5ab728320e2f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cec580ff-44a8-40e2-925e-a708e3e5add6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d3b13245-9124-4fb9-b50f-e54beca557e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d6013c85-cff8-48b2-b7f9-5b0ff17f36b8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d87583b5-b9bb-4adf-a613-d8ae7afe2936-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ed99310d-5c56-4bd5-af13-1cb1eb963af7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_01_04_25_Wailt_type/Explicity_wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_01_04_25_Wailt_type/ex_selenium_25_04_25/JS/Lab331.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_24_04_25/ActionClass/Lab_332.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_24_04_25/shadow_root/Lab_331.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_08_04_2025/SVG/Lab_328.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_08_04_2025/SVG/Lab_328.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_24_04_25/SVG/Lab_330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_24_04_25/SVG/Lab_330.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +88,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="TestNG" name="Lab327" />
-    </enabled-run-configurations>
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -49,6 +103,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.App.executor": "Run",
+    "Application.Explicity_wait.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Lab301.executor": "Run",
     "Application.Lab302.executor": "Run",
@@ -96,6 +151,8 @@
     "TestNG.Lab_326_WebTable.dynamicElementFind.executor": "Run",
     "TestNG.Lab_328.SVG.executor": "Run",
     "TestNG.Lab_329.executor": "Run",
+    "TestNG.Lab_330.SVG.executor": "Run",
+    "TestNG.Lab_331.executor": "Run",
     "TestNG.Selenium_wait.login.executor": "Run",
     "TestNG.Selenium_wait_Explicity.executor": "Run",
     "git-widget-placeholder": "Staging",
@@ -116,62 +173,23 @@
       <recent name="C:\Users\AARRSOL\IdeaProjects\ATB7xseleniumPractice\src\test\java\com\thetestingacadmey\ex_selenium\ex_selenium_30_12_2024" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacadmey.ex_selenium_24_04_25.ActionClass" />
       <recent name="com.thetestingacadmey.ex_selenium_08_04_2025.SVG" />
       <recent name="com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements" />
       <recent name="com.thetestingacadmey.ex_selenium_03_04_25JavaScriptAlerts" />
       <recent name="com.thetestingacadmey.ex_selenium_03_04_25" />
-      <recent name="com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lab_328.SVG">
-    <configuration name="Lab327" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Lab_332">
+    <configuration name="Explicity_wait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.Explicity_wait" />
       <module name="ATB7xseleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_08_04_2025.*" />
+          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_01_04_25_Wailt_type.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_08_04_2025" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_08_04_2025.Lab327" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_325_WebTable" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB7xseleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_326_WebTable.dynamicElementFind" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB7xseleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_326_WebTable" />
-      <option name="METHOD_NAME" value="dynamicElementFind" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -194,16 +212,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_329" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_330.SVG" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB7xseleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_08_04_2025.SVG.*" />
+          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_24_04_25.SVG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_08_04_2025.SVG" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_08_04_2025.SVG.Lab_329" />
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_24_04_25.SVG" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_24_04_25.SVG.Lab_330" />
+      <option name="METHOD_NAME" value="SVG" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_331" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB7xseleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_24_04_25.shadow_root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_24_04_25.shadow_root" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_24_04_25.shadow_root.Lab_331" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_332" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB7xseleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_24_04_25.ActionClass" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_332" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -213,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Lab_332" />
+        <item itemvalue="TestNG.Lab_331" />
+        <item itemvalue="Application.Explicity_wait" />
+        <item itemvalue="TestNG.Lab_330.SVG" />
         <item itemvalue="TestNG.Lab_328.SVG" />
-        <item itemvalue="TestNG.Lab_329" />
-        <item itemvalue="TestNG.Lab327" />
-        <item itemvalue="TestNG.Lab_326_WebTable.dynamicElementFind" />
-        <item itemvalue="TestNG.Lab_325_WebTable" />
       </list>
     </recent_temporary>
   </component>
@@ -301,6 +354,15 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_08_04_2025/SVG/Lab_328.java</url>
           <line>15</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_24_04_25/ActionClass/Lab_332.java</url>
+          <line>35</line>
+          <properties class="com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_332" method="ClosedBrowser">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
