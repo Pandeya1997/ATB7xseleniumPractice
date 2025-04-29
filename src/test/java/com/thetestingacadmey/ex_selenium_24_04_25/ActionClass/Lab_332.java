@@ -28,14 +28,16 @@ public class Lab_332 {
         // THE TESTING ACADEMY
         WebElement firstname = driver.findElement(By.name("firstname"));
         Actions actions = new Actions(driver);
-        actions.keyDown(Keys.SHIFT).sendKeys(firstname,"thetestingacadmey").keyUp(Keys.SHIFT).build().perform();
+        actions.keyDown(Keys.SHIFT).sendKeys(firstname,"thetestingacadmey")
+                .keyUp(Keys.SHIFT).build().perform();
 
-
+        WebElement link = driver.findElement(By.xpath("//a[text()= \"Click here to Download File\"]"));
+        actions.contextClick(link).build().perform();
     }
     @AfterSuite
     public void ClosedBrowser(){
         try {
-            Thread.sleep(500);
+            Thread.sleep(10000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
