@@ -1,4 +1,4 @@
-package com.thetestingacadmey.ex_selenium_24_04_25.ActionClass;
+package com.thetestingacadmey.ex_selenium_29_04_25.ActionClass;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.*;
