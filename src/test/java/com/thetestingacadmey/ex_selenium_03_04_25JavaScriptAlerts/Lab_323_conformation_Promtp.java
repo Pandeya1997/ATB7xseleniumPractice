@@ -29,7 +29,7 @@ public class Lab_323_conformation_Promtp {
 
     @Test
     @Description("The Test Case Describe Arlt conformation_Promtp ")
-    public void element_Promtp() throws Exception{
+    public void element_Promtp() throws Exception {
         driver.manage().timeouts().implicitlyWait(200, TimeUnit.SECONDS);
 
         driver.get("https://the-internet.herokuapp.com/javascript_alerts");

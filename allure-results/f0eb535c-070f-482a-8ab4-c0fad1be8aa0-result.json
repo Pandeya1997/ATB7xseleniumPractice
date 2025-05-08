@@ -1,1 +1,61 @@
-{"uuid":"f0eb535c-070f-482a-8ab4-c0fad1be8aa0","historyId":"167d4ebe7f8f8c092b0e730ba824fc12","fullName":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_335.PostiveTestCase","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_335"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_335"},{"name":"testMethod","value":"PostiveTestCase"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_335"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"16932@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"PostiveTestCase","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1745948576816,"stop":1745948582054}
+{
+  "uuid": "f0eb535c-070f-482a-8ab4-c0fad1be8aa0",
+  "historyId": "167d4ebe7f8f8c092b0e730ba824fc12",
+  "fullName": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_335.PostiveTestCase",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_335"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_335"
+    },
+    {
+      "name": "testMethod",
+      "value": "PostiveTestCase"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_335"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "16932@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "PostiveTestCase",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1745948576816,
+  "stop": 1745948582054
+}

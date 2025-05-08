@@ -22,26 +22,26 @@ public class Lab_330 {
     private int size;
 
     @BeforeSuite
-    public void OpenBrowser(){
+    public void OpenBrowser() {
         options = new EdgeOptions();
         options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         driver = new EdgeDriver(options);
         driver.manage().window().maximize();
     }
+
     @Test
     @Description("Find ")
-    public void SVG(){
-     String URL = "https://www.flipkart.com/\n";
-    driver.get(URL);
-    driver.findElement(By.xpath(" //*[text()= \"Electronics\"]\n")).click();
+    public void SVG() {
+        String URL = "https://www.flipkart.com/\n";
+        driver.get(URL);
+        driver.findElement(By.xpath(" //*[text()= \"Electronics\"]\n")).click();
 //    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 //    wait.until(ExpectedConditions.)
     }
 
 
-
     @AfterSuite
-    public void ClosedBrowser(){
+    public void ClosedBrowser() {
         try {
             Thread.sleep(5000);
         } catch (InterruptedException e) {

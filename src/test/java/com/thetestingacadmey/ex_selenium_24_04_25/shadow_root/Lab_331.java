@@ -13,24 +13,26 @@ import java.util.concurrent.TimeUnit;
 public class Lab_331 {
     EdgeOptions options;
     WebDriver driver;
+
     @BeforeSuite
-    public void OpenBrowser(){
-      options =new EdgeOptions();
-      options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
-      driver = new EdgeDriver(options);
-      driver.manage().window().maximize();
+    public void OpenBrowser() {
+        options = new EdgeOptions();
+        options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+        driver = new EdgeDriver(options);
+        driver.manage().window().maximize();
     }
+
     @Test(testName = "shadow & USE JavaScript")
     @Description("Shadow Test And scrooling Managin broser throgh JS")
-    public void shadowTest(){
+    public void shadowTest() {
         String URL = "https://selectorshub.com/xpath-practice-page/";
         driver.get(URL);
         JavascriptExecutor js = (JavascriptExecutor) driver;
 //       js.executeScript("alert(1)");
         // javaScript code - document.querySelector("div#userName").shadowRoot.querySelector("div").shadowRoot.querySelector("input#pizza")
-       // WebElement
-         WebElement divScrolTo = driver.findElement(By.xpath("//div[@id=\"userName\"]"));
-        js.executeScript("arguments[0].scrollIntoView(true);",divScrolTo);
+        // WebElement
+        WebElement divScrolTo = driver.findElement(By.xpath("//div[@id=\"userName\"]"));
+        js.executeScript("arguments[0].scrollIntoView(true);", divScrolTo);
 
         try {
             Thread.sleep(5000);
@@ -39,11 +41,12 @@ public class Lab_331 {
         }
 
         WebElement inputpizzabox = (WebElement) js.executeScript("return  document.querySelector(\"div#userName\").shadowRoot.querySelector(\"div\").shadowRoot.querySelector(\"input#pizza\")");
-       inputpizzabox.sendKeys("FarmHouse");
+        inputpizzabox.sendKeys("FarmHouse");
 
     }
+
     @AfterSuite
-    public void ClosedBrowser(){
+    public void ClosedBrowser() {
         try {
             Thread.sleep(500);
         } catch (InterruptedException e) {

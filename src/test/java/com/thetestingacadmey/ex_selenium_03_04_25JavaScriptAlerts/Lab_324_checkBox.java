@@ -27,13 +27,13 @@ public class Lab_324_checkBox {
 
     @Test
     @Description("The Test Case Describe check Box  ")
-    public void element_Promtp() throws Exception{
+    public void element_Promtp() throws Exception {
         driver.manage().timeouts().implicitlyWait(200, TimeUnit.SECONDS);
 
         driver.get("https://the-internet.herokuapp.com/checkboxes");
         System.out.println("Title" + driver.getTitle());
         List<WebElement> checkBoxes = driver.findElements(By.cssSelector("input[type=\"checkbox\"]"));
-       // checkBoxes.get(0).click();
+        // checkBoxes.get(0).click();
         checkBoxes.get(1).click();
 
 

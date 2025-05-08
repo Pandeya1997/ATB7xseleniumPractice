@@ -32,7 +32,7 @@ public class Lab_326_WebTable {
         driver.get("https://awesomeqa.com/webtable.html");
         System.out.println("Page Title: " + driver.getTitle());
 
-     WebElement element = driver.findElement(By.xpath("//table [@id=\"customers\"]/tbody/tr[6]/td[3]"));
+        WebElement element = driver.findElement(By.xpath("//table [@id=\"customers\"]/tbody/tr[6]/td[3]"));
         System.out.println(element.getText());
 
     }

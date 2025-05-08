@@ -1,1 +1,62 @@
-{"uuid":"b9b3eae7-e738-4eb7-bec2-bffcee1b173e","historyId":"b3a17f15300c7180473850ac5417ffad","fullName":"com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_promat.Herokupap","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_promat"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_promat"},{"name":"testMethod","value":"Herokupap"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_promat"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"25676@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"Herokupap","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"The Test Case Describe Arlt message Accept / cancel ","steps":[],"attachments":[],"parameters":[],"start":1743761204321,"stop":1743761209494}
+{
+  "uuid": "b9b3eae7-e738-4eb7-bec2-bffcee1b173e",
+  "historyId": "b3a17f15300c7180473850ac5417ffad",
+  "fullName": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_promat.Herokupap",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_promat"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_promat"
+    },
+    {
+      "name": "testMethod",
+      "value": "Herokupap"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_promat"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "25676@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Herokupap",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "The Test Case Describe Arlt message Accept / cancel ",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1743761204321,
+  "stop": 1743761209494
+}

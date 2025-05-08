@@ -1,0 +1,11 @@
+{
+  "uuid": "99dfd31e-cb06-40c4-bf23-5dc9e312b12e",
+  "name": "com.thetestingacadmey.ex_selenium_30_04_25_Actions_Window_Drag_Drop.Lab_336",
+  "children": [
+    "e782d052-8e33-4851-88f1-9e8f9cbded9a"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1746007402148,
+  "stop": 1746007402313
+}

@@ -16,31 +16,32 @@ import java.util.List;
 public class Lab_328 {
     EdgeOptions options;
     WebDriver driver;
+
     @BeforeSuite
-    public void OpenBrowser(){
-      options = new EdgeOptions();
-      options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
-      driver = new EdgeDriver(options);
-      driver.manage().window().maximize();
+    public void OpenBrowser() {
+        options = new EdgeOptions();
+        options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+        driver = new EdgeDriver(options);
+        driver.manage().window().maximize();
     }
-   @Test
-   @Description()
-   public void SVG(){
-     driver.get("https://www.flipkart.com/");
+
+    @Test
+    @Description()
+    public void SVG() {
+        driver.get("https://www.flipkart.com/");
         driver.findElement(By.name("q")).sendKeys("macmini");
-       // List<WebElement> svgElements = driver.findElements(By.xpath("//*[local-name()= \"svg\"]"));
-       //or
+        // List<WebElement> svgElements = driver.findElements(By.xpath("//*[local-name()= \"svg\"]"));
+        //or
 //       List<WebElement> svgElements = driver.findElements(By.xpath("//*[name()= \"svg\"]"));
 //        svgElements.get(0).click();
 
-driver.findElement(By.xpath("//button [@title=\"Search for Products, Brands and More\"]//*[name()='svg']")).click();
+        driver.findElement(By.xpath("//button [@title=\"Search for Products, Brands and More\"]//*[name()='svg']")).click();
 
-   }
-
+    }
 
 
     @AfterSuite
-    public void ClosedBrowser(){
+    public void ClosedBrowser() {
         try {
             Thread.sleep(5000);
         } catch (InterruptedException e) {

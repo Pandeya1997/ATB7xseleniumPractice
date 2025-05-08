@@ -1,0 +1,61 @@
+{
+  "uuid": "ce213e16-b4e6-48f4-8f32-6e5d916ccd98",
+  "historyId": "d0e051a2e5933ebbb5c4455e5434c4b5",
+  "fullName": "com.thetestingacadmey.ex_selenium_30_04_25_Actions_Window_Drag_Drop.Lab_337_Dragon_drop.PostiveTestCase",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_30_04_25_Actions_Window_Drag_Drop.Lab_337_Dragon_drop"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_30_04_25_Actions_Window_Drag_Drop.Lab_337_Dragon_drop"
+    },
+    {
+      "name": "testMethod",
+      "value": "PostiveTestCase"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_30_04_25_Actions_Window_Drag_Drop.Lab_337_Dragon_drop"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "29708@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "PostiveTestCase",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1746014045012,
+  "stop": 1746014053011
+}

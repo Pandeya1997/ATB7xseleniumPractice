@@ -1,1 +1,62 @@
-{"uuid":"ed99310d-5c56-4bd5-af13-1cb1eb963af7","historyId":"5eeb5174ee930ce1114cde27b2a7e3e0","fullName":"com.thetestingacadmey.ex_selenium_24_04_25.shadow_root.Lab_331.shadowTest","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_24_04_25.shadow_root.Lab_331"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_24_04_25.shadow_root.Lab_331"},{"name":"testMethod","value":"shadowTest"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_24_04_25.shadow_root.Lab_331"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"3656@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"shadowTest","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"Shadow Test And scrooling Managin broser throgh JS","steps":[],"attachments":[],"parameters":[],"start":1745761348659,"stop":1745761351868}
+{
+  "uuid": "ed99310d-5c56-4bd5-af13-1cb1eb963af7",
+  "historyId": "5eeb5174ee930ce1114cde27b2a7e3e0",
+  "fullName": "com.thetestingacadmey.ex_selenium_24_04_25.shadow_root.Lab_331.shadowTest",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.shadow_root.Lab_331"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.shadow_root.Lab_331"
+    },
+    {
+      "name": "testMethod",
+      "value": "shadowTest"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.shadow_root.Lab_331"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "3656@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "shadowTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Shadow Test And scrooling Managin broser throgh JS",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1745761348659,
+  "stop": 1745761351868
+}

@@ -1,1 +1,62 @@
-{"uuid":"ea9f9a49-05a2-4fdf-8ac9-24933006c670","historyId":"7700b19f03ded4a9dd469c1de983f4af","fullName":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip.Spicejet","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"},{"name":"testMethod","value":"Spicejet"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"15460@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"Spicejet","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"Open MakeMyTrip and input source location using Actions class with explicit wait.","steps":[],"attachments":[],"parameters":[],"start":1745840811175,"stop":1745840816554}
+{
+  "uuid": "ea9f9a49-05a2-4fdf-8ac9-24933006c670",
+  "historyId": "7700b19f03ded4a9dd469c1de983f4af",
+  "fullName": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip.Spicejet",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"
+    },
+    {
+      "name": "testMethod",
+      "value": "Spicejet"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "15460@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Spicejet",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Open MakeMyTrip and input source location using Actions class with explicit wait.",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1745840811175,
+  "stop": 1745840816554
+}

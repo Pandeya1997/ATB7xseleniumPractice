@@ -1,1 +1,61 @@
-{"uuid":"a44fca32-6c29-4409-bd06-680c43cce51f","historyId":"cdda0d8fda203d3391af67c8fc494e76","fullName":"com.thetestingacadmey.ex_selenium_08_04_2025.SVG.Lab_329.SVG","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_08_04_2025.SVG.Lab_329"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_08_04_2025.SVG.Lab_329"},{"name":"testMethod","value":"SVG"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_08_04_2025.SVG.Lab_329"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"17328@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"SVG","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1745473246324,"stop":1745473249089}
+{
+  "uuid": "a44fca32-6c29-4409-bd06-680c43cce51f",
+  "historyId": "cdda0d8fda203d3391af67c8fc494e76",
+  "fullName": "com.thetestingacadmey.ex_selenium_08_04_2025.SVG.Lab_329.SVG",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_08_04_2025.SVG.Lab_329"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_08_04_2025.SVG.Lab_329"
+    },
+    {
+      "name": "testMethod",
+      "value": "SVG"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_08_04_2025.SVG.Lab_329"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "17328@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "SVG",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1745473246324,
+  "stop": 1745473249089
+}

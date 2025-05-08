@@ -19,34 +19,34 @@ public class Lab_329 {
     private int size;
 
     @BeforeSuite
-    public void OpenBrowser(){
-      options = new EdgeOptions();
-      options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
-      driver = new EdgeDriver(options);
-      driver.manage().window().maximize();
+    public void OpenBrowser() {
+        options = new EdgeOptions();
+        options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+        driver = new EdgeDriver(options);
+        driver.manage().window().maximize();
     }
-   @Test
-   @Description()
-   public void SVG(){
+
+    @Test
+    @Description()
+    public void SVG() {
         String URL = "https://www.amcharts.com/svg-maps/?map=india";
-       // driver.get("https://www.amcharts.com/svg-maps/?map=india");
+        // driver.get("https://www.amcharts.com/svg-maps/?map=india");
         driver.get(URL);
         List<WebElement> states = driver.findElements(By.xpath("//*[name()= 'svg']/*[name()='g'][7]/*[name()='g']/*[name()='g']/*[name()= 'path']"));
 
-        for (WebElement state : states){
+        for (WebElement state : states) {
             System.out.println(state.getAttribute("aria-label"));
-            if (state.getAttribute("aria-label").contains("Tripura")){
+            if (state.getAttribute("aria-label").contains("Tripura")) {
                 state.click();
             }
 
         }
 
-   }
-
+    }
 
 
     @AfterSuite
-    public void ClosedBrowser(){
+    public void ClosedBrowser() {
         try {
             Thread.sleep(5000);
         } catch (InterruptedException e) {

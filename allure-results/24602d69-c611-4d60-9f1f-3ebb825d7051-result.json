@@ -1,1 +1,61 @@
-{"uuid":"24602d69-c611-4d60-9f1f-3ebb825d7051","historyId":"4d0075747cecb0c1de2cb10e2a9fe8fe","fullName":"com.thetestingacadmey.ex_selenium_08_04_2025.Lab327.webtable","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_08_04_2025.Lab327"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_08_04_2025.Lab327"},{"name":"testMethod","value":"webtable"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_08_04_2025.Lab327"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"8916@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"webtable","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1744118538904,"stop":1744118539597}
+{
+  "uuid": "24602d69-c611-4d60-9f1f-3ebb825d7051",
+  "historyId": "4d0075747cecb0c1de2cb10e2a9fe8fe",
+  "fullName": "com.thetestingacadmey.ex_selenium_08_04_2025.Lab327.webtable",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_08_04_2025.Lab327"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_08_04_2025.Lab327"
+    },
+    {
+      "name": "testMethod",
+      "value": "webtable"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_08_04_2025.Lab327"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "8916@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "webtable",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1744118538904,
+  "stop": 1744118539597
+}

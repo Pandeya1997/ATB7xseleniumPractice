@@ -1,1 +1,42 @@
-{"uuid":"568f91b1-b8a2-4eee-af96-765342b80f20","name":"Default Suite","children":["444caf53-0e20-4f58-b820-51dd78b0ecd0","dfc1d38b-c1ea-40c8-8d61-a48ebf2ea856"],"befores":[{"name":"ClosedBrowser","status":"broken","statusDetails":{"known":false,"muted":false,"flaky":false,"message":"Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null","trace":"java.lang.NullPointerException: Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null\r\n\tat com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable.ClosedBrowser(Lab_325_WebTable.java:61)\r\n\tat java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:580)\r\n\tat org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)\r\n\tat org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)\r\n\tat org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)\r\n\tat org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:358)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:312)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1208)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1112)\r\n\tat org.testng.TestNG.run(TestNG.java:1079)\r\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)\r\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)\r\n"},"stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1744031951999,"stop":1744031952523},{"name":"OpenBrowser","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1744031952617,"stop":1744031952618}],"afters":[],"start":1744031951979,"stop":1744031952662}
+{
+  "uuid": "568f91b1-b8a2-4eee-af96-765342b80f20",
+  "name": "Default Suite",
+  "children": [
+    "444caf53-0e20-4f58-b820-51dd78b0ecd0",
+    "dfc1d38b-c1ea-40c8-8d61-a48ebf2ea856"
+  ],
+  "befores": [
+    {
+      "name": "ClosedBrowser",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null",
+        "trace": "java.lang.NullPointerException: Cannot invoke \"org.openqa.selenium.WebDriver.quit()\" because \"this.driver\" is null\r\n\tat com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable.ClosedBrowser(Lab_325_WebTable.java:61)\r\n\tat java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:580)\r\n\tat org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)\r\n\tat org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)\r\n\tat org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)\r\n\tat org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:358)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:312)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1208)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1112)\r\n\tat org.testng.TestNG.run(TestNG.java:1079)\r\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)\r\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)\r\n"
+      },
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1744031951999,
+      "stop": 1744031952523
+    },
+    {
+      "name": "OpenBrowser",
+      "status": "broken",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1744031952617,
+      "stop": 1744031952618
+    }
+  ],
+  "afters": [],
+  "start": 1744031951979,
+  "stop": 1744031952662
+}

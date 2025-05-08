@@ -48,15 +48,14 @@ public class Lab_334_MakeMyTrip {
         List<WebElement> list_auto_complete = driver.findElements(By.xpath("//ul[@class=\"react-autosuggest__suggestions-list\"]/li"));
 
 
-        for(WebElement e: list_auto_complete){
-            if(e.getText().contains("New Delhi")){
+        for (WebElement e : list_auto_complete) {
+            if (e.getText().contains("New Delhi")) {
                 e.click();
                 break;
             }
 
 
         }
-
 
 
         Thread.sleep(13000);

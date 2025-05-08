@@ -1,1 +1,62 @@
-{"uuid":"8d9b1164-26de-494e-bea4-429154d8e3ad","historyId":"20f50fe4977c7c0fc5baf9dfa4609201","fullName":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip.PostiveTestCase","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"},{"name":"testMethod","value":"PostiveTestCase"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"22424@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"PostiveTestCase","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"Open MakeMyTrip and input source location using Actions class with explicit wait.","steps":[],"attachments":[],"parameters":[],"start":1745948174470,"stop":1745948198327}
+{
+  "uuid": "8d9b1164-26de-494e-bea4-429154d8e3ad",
+  "historyId": "20f50fe4977c7c0fc5baf9dfa4609201",
+  "fullName": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip.PostiveTestCase",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"
+    },
+    {
+      "name": "testMethod",
+      "value": "PostiveTestCase"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.Lab_334_MakeMyTrip"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "22424@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "PostiveTestCase",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Open MakeMyTrip and input source location using Actions class with explicit wait.",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1745948174470,
+  "stop": 1745948198327
+}

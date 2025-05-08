@@ -17,7 +17,7 @@ public class Explicity_wait {
     public static void main(String[] args) {
         WebDriver driver;
         EdgeOptions options;
-        options= new EdgeOptions();
+        options = new EdgeOptions();
         options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
         driver = new EdgeDriver(options);
         driver.manage().window().maximize();
@@ -28,12 +28,13 @@ public class Explicity_wait {
         WebElement EmailID = driver.findElement(By.id("email"));
         WebElement Password = driver.findElement(By.id("pass"));
 
-        SendKey(driver, EmailID, 10,"Abhi@Abhi.com");
+        SendKey(driver, EmailID, 10, "Abhi@Abhi.com");
         SendKey(driver, Password, 5, "Pass@123");
 
         WebElement LoginButton = driver.findElement(By.id("loginbutton"));
-       ClickButton(driver,LoginButton,10);
+        ClickButton(driver, LoginButton, 10);
     }
+
     public static void SendKey(WebDriver driver, WebElement element, int timeout, String value) {
         new WebDriverWait(driver, Duration.ofSeconds(timeout))
                 .until(ExpectedConditions.visibilityOf(element));

@@ -1,1 +1,62 @@
-{"uuid":"deb47b68-8aa9-4f92-a97d-cd17e7ba40b5","historyId":"30982712bd79ae6a087bd5f08802ca2e","fullName":"com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_Promtp.element_Promtp","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_Promtp"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_Promtp"},{"name":"testMethod","value":"element_Promtp"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_Promtp"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"32932@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"element_Promtp","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"The Test Case Describe Arlt message Accept / cancel ","steps":[],"attachments":[],"parameters":[],"start":1743763881885,"stop":1743763891762}
+{
+  "uuid": "deb47b68-8aa9-4f92-a97d-cd17e7ba40b5",
+  "historyId": "30982712bd79ae6a087bd5f08802ca2e",
+  "fullName": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_Promtp.element_Promtp",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_Promtp"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_Promtp"
+    },
+    {
+      "name": "testMethod",
+      "value": "element_Promtp"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_03_04_25.Lab_323_conformation_Promtp"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "32932@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "element_Promtp",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "The Test Case Describe Arlt message Accept / cancel ",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1743763881885,
+  "stop": 1743763891762
+}

@@ -1,1 +1,62 @@
-{"uuid":"35f3a43b-4d92-43fd-b1d1-e578106cc610","historyId":"d1269c87e5f132a76f223e7f1029287e","fullName":"com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable.dynamicElementFind","labels":[{"name":"package","value":"com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable"},{"name":"testClass","value":"com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable"},{"name":"testMethod","value":"dynamicElementFind"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"ATB7xseleniumPractice"},{"name":"subSuite","value":"com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable"},{"name":"host","value":"DESKTOP-B6IU4L2"},{"name":"thread","value":"25036@DESKTOP-B6IU4L2.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"dynamicElementFind","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","description":"Dynamic Element Finding in Web Table","steps":[],"attachments":[],"parameters":[],"start":1744032518103,"stop":1744032518859}
+{
+  "uuid": "35f3a43b-4d92-43fd-b1d1-e578106cc610",
+  "historyId": "d1269c87e5f132a76f223e7f1029287e",
+  "fullName": "com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable.dynamicElementFind",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable"
+    },
+    {
+      "name": "testMethod",
+      "value": "dynamicElementFind"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements.Lab_325_WebTable"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "25036@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "dynamicElementFind",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Dynamic Element Finding in Web Table",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1744032518103,
+  "stop": 1744032518859
+}

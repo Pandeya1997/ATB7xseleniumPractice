@@ -1,1 +1,11 @@
-{"uuid":"bd4e98e5-2520-46c5-abc6-1a5b73afde23","name":"com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.MakeMyTripTest","children":["ff40c130-f0bc-4e00-8258-28391e505f14"],"befores":[],"afters":[],"start":1745932719803,"stop":1745932732393}
+{
+  "uuid": "bd4e98e5-2520-46c5-abc6-1a5b73afde23",
+  "name": "com.thetestingacadmey.ex_selenium_24_04_25.ActionClass.MakeMyTripTest",
+  "children": [
+    "ff40c130-f0bc-4e00-8258-28391e505f14"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1745932719803,
+  "stop": 1745932732393
+}

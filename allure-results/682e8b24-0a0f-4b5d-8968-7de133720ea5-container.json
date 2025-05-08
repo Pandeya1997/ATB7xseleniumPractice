@@ -1,1 +1,35 @@
-{"uuid":"682e8b24-0a0f-4b5d-8968-7de133720ea5","name":"Default Suite","children":["628b4d72-c302-4c24-801c-670ce8d722ab"],"befores":[{"name":"OpenBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745947939306,"stop":1745947942457}],"afters":[{"name":"CloseBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745947961747,"stop":1745947973236}],"start":1745947939281,"stop":1745947973236}
+{
+  "uuid": "682e8b24-0a0f-4b5d-8968-7de133720ea5",
+  "name": "Default Suite",
+  "children": [
+    "628b4d72-c302-4c24-801c-670ce8d722ab"
+  ],
+  "befores": [
+    {
+      "name": "OpenBrowser",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1745947939306,
+      "stop": 1745947942457
+    }
+  ],
+  "afters": [
+    {
+      "name": "CloseBrowser",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1745947961747,
+      "stop": 1745947973236
+    }
+  ],
+  "start": 1745947939281,
+  "stop": 1745947973236
+}
