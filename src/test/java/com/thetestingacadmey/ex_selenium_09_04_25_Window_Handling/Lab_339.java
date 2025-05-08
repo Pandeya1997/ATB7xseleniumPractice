@@ -1,6 +1,4 @@
 package com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling;
-
-import jdk.jfr.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -26,13 +24,14 @@ public class Lab_339 {
     }
 
     @Test()
-    @Description()
-    public void OpenPage() {
+
+    public void OpenPage() throws InterruptedException {
         String URL = "https://the-internet.herokuapp.com/windows";
         driver.get(URL);
         String mainWindowHandling = driver.getWindowHandle();
         System.out.println("Before click " + mainWindowHandling);
-        WebElement link = driver.findElement(By.linkText("Click Here "));
+        Thread.sleep(3000);
+        WebElement link = driver.findElement(By.linkText("Click Here"));
         link.click();
         Set<String> windowHandle = driver.getWindowHandles();
         // All the windows tab have a unique name
