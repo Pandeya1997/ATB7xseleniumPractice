@@ -5,20 +5,123 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b65aa022-1cb7-4a23-9489-3f847db197f3" name="Changes" comment="update code">
-      <change afterPath="$PROJECT_DIR$/allure-results/022357c0-8baa-4565-9125-96acbc0aad63-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/08388b97-119b-4ec9-a986-39c47627592d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/77838fb6-d09c-43b6-9391-fcb9ac200196-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/89e837ad-734e-456e-949a-3412aa46e810-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8af42d77-b4ed-4d16-9aa5-2846a0d83a58-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/903d67d2-8938-4afa-ae14-30aeaa9c0a77-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/98029af4-7e79-4b9e-a862-029635b3f9e9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d30ad399-d889-4948-ac6b-989a2a9ab4cd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d34b1279-b820-4e94-b9ba-6e5a8f6cb186-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ecbd09da-284c-4a9b-8b70-a88bdb803801-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ed25a1a7-e185-4974-8c80-865544cffa30-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fd94d26e-d6df-46ac-969a-b58e5b30c297-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/01016307-fad9-4e42-b9f9-e3f838f73cfd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/04f8d210-a334-4ad9-8326-a17284f4cb6b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/05d298c0-cd2f-4b46-9d67-150b234df507-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0746fe2a-db2f-4502-9905-12dcd9b74f32-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/084bd58b-f775-4956-ae59-684135320157-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/08ae222b-ecc6-41af-820e-8f777e1d44f3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0dbe0b9a-077b-4943-9fcb-26d76decccb0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0e9c5a50-3a19-418f-93ee-a9fcfd56c279-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0f2e87d1-da10-42da-9487-817b5c25a9f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/12054611-9be4-4f8d-a356-16070552b93c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/12bf3ccc-4259-47e0-ad72-05bb56721399-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a894e29-5e21-4b11-aa57-aa1350dc871a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b56ecb8-dbb2-4b10-a9e2-593d28554a36-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1bfdf827-0b08-47fa-a297-2c4e88806f7e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/22284b34-d164-446c-a29b-58573bb3e1bf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2345ef83-7e3e-4338-a1a7-cec8d360d891-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2968daf7-6ca2-4a04-9208-3bfab998a71e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/29e73726-3eb4-45c1-9073-9882f71d1cfd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2d303231-acb4-490a-b4c4-6d833cea755c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2e9896c6-106b-4ce8-9c8a-bab19ffb3660-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/346ba1b9-0213-4f11-8e90-3407316e4628-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/34fbcbc1-bd4d-46e7-9d52-bf81ea7896eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/355d30ab-48fd-4ede-ac1d-a77f22819a5d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/38db7f44-34fc-4df7-a1bc-e16b6264fdd7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3be13bb0-0f7f-417e-9b67-621a2809f1bb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3c622eed-ad83-4f4b-b306-42f857fdf72d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3c8b4836-afbd-4bab-889e-c9429a4551bd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3d781c0a-57db-4d6f-956f-f4ce2a45afc6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/414d7b98-a9ef-4295-8e68-a8ac99671880-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/43099274-c914-4f91-8dcf-4cfba46d886f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/46443836-162d-4160-959d-aad9c2bba65c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/491b02af-eac3-4177-8658-d1fdb9eee150-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/50281d71-713e-4a61-870c-8988d645f864-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/50f6d1d3-cd64-49bd-a539-0ebfbb93d4f8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/52451089-5a60-4a1e-996e-1677db208626-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/524783a3-1093-4316-8612-f80c5a9bad02-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/526862c5-5790-450e-a513-d7b6534b7d38-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5593e09b-cfe7-4706-9903-9b7319b9555e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/57dfb66e-f7e5-4a6c-b1ef-5e9eb2cfe898-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58db4380-2a57-456f-a77f-f7839ee055f0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/59854d7c-79c0-472c-9455-c3f6c06860c4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/62a4e720-16b6-4be7-b10c-f92b88874095-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6362b893-85e7-44c3-a91f-9f8440cacb60-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/665ca64e-4af0-4d97-bcab-ff3732ccfdc6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/694a6fa5-4fc6-47b9-8d6f-c8fc961a19df-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/72f09b4f-dc0b-426f-bb29-a89caeb39c4f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7b46c588-bee3-446d-a6c8-d079f06b3d5a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7e968df4-888a-4333-bac9-4dbeade86a2f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7f91e1f2-7833-461d-b269-3f6a9179f3ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7fc436b8-94ea-4481-becd-3f26e6fe1a13-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8115cc1c-79f2-448b-a62e-7ccca787cab0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/830bb6b5-be78-4c58-ac6c-4d7ee4e5bd43-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/830d9e78-cf54-4c08-9f9f-b2063cb64c6f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/854bb0da-66a7-410b-ae36-f02dc5e754ed-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/864918ad-8974-4eb7-be18-0d81f984ba5b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/86aa00cf-419b-4056-a165-c69a07c4edd1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/86b6e797-1f79-4d8f-bfaa-aeaecb733e9e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/871eba01-ebaa-4e84-8a54-aadeeb06ddd7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/889027e3-328c-4d76-ac9e-dd8d4190b2c3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/88c8bf12-1136-4ec4-b788-f455e93a5999-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8b8bf63a-b0c1-4c09-8c71-57fb3626eba1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8dfa7135-219b-46ee-b1b9-d69ea4ce1b7a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/900dd5e6-8436-4229-91aa-6eec66b97993-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/92b10ec0-30c8-4b57-b03e-5a0dc7dc51ce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/942dce88-e87f-462a-97ee-ba1e27981ac7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/94ee112a-81bc-4609-8bc7-cc0e4a8590ec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/959142a7-14ab-40df-b89b-4c3578b822a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9c91fad7-1986-41cc-b7f7-89fe00e1b284-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9d0cb458-8a86-47da-8710-b899c3950392-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a4cb2564-a711-4127-b860-8db6508889eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a57b58e5-fdad-4f6b-aa4e-702c314e59b3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a86589d7-c0c8-42c6-8631-a053eabfda9b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aa68058e-a6fe-470f-97aa-d039c7f459b0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ad3584d3-e298-41b2-8456-f68a8377f73a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b1912bf2-63e7-42ff-b1e8-f2876f13c259-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b1ae14ee-2a00-4808-ae79-b445afd8ef10-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b31058a0-ab02-4e5f-bbfa-2856f162cc43-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bf249d00-eb78-43a4-9593-c837b06062c3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c12c0714-9b6b-406d-80a1-bafddfcd26f1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1c3bb0b-388f-444a-9aac-d2ca8a924c88-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c21a1914-304f-4c0b-98c7-6bb8344fd606-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c5911811-b4c1-4425-ab01-c2966f78357c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c919e609-60cc-4c80-b088-ac7fe50ff6af-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c972f728-5dea-425f-8abf-ae9b462ed45a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc26062f-1c64-4857-9259-dba44510525b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc990b93-6d85-4e5c-8532-a26a07f4de20-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cdea7bed-317d-48d0-b212-50e15ae26723-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ce5ddc29-c838-4814-8a99-24554f83659c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d506a79e-cf44-4e3a-9a53-f2660330ad1e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d64ba427-0ecf-4dab-8402-4f261f42d9e8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d8fb4eb1-253f-448b-b283-3ad73ce45f61-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dbe1dd43-3904-4445-9b5e-351fdc91f25d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dc778d7a-2692-42c1-8dd4-fa1c1c526f87-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dc87c3b1-0972-4c17-8c3d-fa70df2827d9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd023f08-bcc6-4237-a53b-8e030adf588a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dd6e588f-b1d1-4057-bd26-7224d8d66b4b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e194ff1c-5a90-4fae-8c5e-616194fbe72f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8d523c1-85cf-4c8d-827a-0c447c5a6352-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9110d6a-7152-4166-bc7f-b550af3d59b9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e9158455-dfa3-4043-b3bb-a4b7102ebaaa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ed46cdcc-6534-4e66-8540-e3782d911ea0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ee94bb37-b47f-4dcc-ba1f-3e92c13c7fef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/efca8822-ec15-4b08-9611-37ad6aa1ccad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f30c518f-3bcc-40f9-b8b5-84840d186380-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f51907e6-7e16-4360-9c55-6eef42ce317a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f7818805-e29d-4444-9c34-c0995b0f0832-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f8884835-681c-476c-91e3-0ee22d29c04f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f9593e3f-89fc-45b6-858f-24f131860df2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fb0003fc-e221-4b19-ad03-7e3f71e84fd8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_Selenium_15_05_2025/Lab_343_RelativeLocater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_09_05_25_Window_Handling/Lab_341.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_09_05_25_Window_Handling/Lab_341_wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_09_05_25_Window_Handling/Lab_342_Relativelocator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_09_04_25_Window_Handling/Lab_339.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_09_04_25_Window_Handling/Lab_339.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_09_04_25_Window_Handling/Lab_339.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_09_05_25_Window_Handling/Lab_339.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_09_04_25_Window_Handling/Lab_340.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_09_05_25_Window_Handling/Lab_340.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_29_04_25/ActionClass/Lab_335.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_29_04_25/ActionClass/Lab_335.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,88 +154,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Explicity_wait.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab301.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab302.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab303.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab304.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_306.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_308B.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_309.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.thetestingacadmey.ex_selenium.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;TestNG.&lt;default&gt;.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/AARRSOL/IdeaProjects/ATB7xseleniumPractice/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab298.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab305.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab305.testClickMangoLoginTitle.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab311B.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab311B.testVwoLoginNegative.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab315.executor&quot;: &quot;Debug&quot;,
-    &quot;TestNG.Lab315_B.HelenBennettFind.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab315_B.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab327.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_310.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_311.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_312.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_312.testVwoLoginNegative.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_313.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_313.testVwoLoginNegative.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_317.Login.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_317.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_318.VWOLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_319_Wait_helper.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_320.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_321.Herokupap.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_321.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_322.Herokupap.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_322.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_323_conformation_Promtp.element_Promtp.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_323_conformation_Promtp.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_323_conformation_promat.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_324_checkBox.element_Promtp.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_325_WebTable.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_326_WebTable.dynamicElementFind.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_328.SVG.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_329.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_330.SVG.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_331.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_332.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_333.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_334_MakeMyTrip.PostiveTestCase.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_334_MakeMyTrip.Spicejet.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_334_MakeMyTrip.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_335.PostiveTestCase (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_335.PostiveTestCase.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_336.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_336_Action.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_337_Dragon_drop.PostiveTestCase.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_338_file_upload.PostiveTestCase.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_338_file_upload.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_339.OpenPage.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_339.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab_340.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.MakeMyTripTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium_wait.login.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium_wait_Explicity.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Staging&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/AARRSOL/IdeaProjects/ATB7xseleniumPractice&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.App.executor": "Run",
+    "Application.Explicity_wait.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Lab301.executor": "Run",
+    "Application.Lab302.executor": "Run",
+    "Application.Lab303.executor": "Run",
+    "Application.Lab304.executor": "Run",
+    "Application.Lab_306.executor": "Run",
+    "Application.Lab_308B.executor": "Run",
+    "Application.Lab_309.executor": "Run",
+    "Application.com.thetestingacadmey.ex_selenium.HelloWorld.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "TestNG.<default>.executor": "Run",
+    "TestNG.C:/Users/AARRSOL/IdeaProjects/ATB7xseleniumPractice/testng.xml.executor": "Run",
+    "TestNG.Lab298.executor": "Run",
+    "TestNG.Lab305.executor": "Run",
+    "TestNG.Lab305.testClickMangoLoginTitle.executor": "Run",
+    "TestNG.Lab311B.executor": "Run",
+    "TestNG.Lab311B.testVwoLoginNegative.executor": "Run",
+    "TestNG.Lab315.executor": "Debug",
+    "TestNG.Lab315_B.HelenBennettFind.executor": "Run",
+    "TestNG.Lab315_B.executor": "Run",
+    "TestNG.Lab327.executor": "Run",
+    "TestNG.Lab_310.executor": "Run",
+    "TestNG.Lab_311.executor": "Run",
+    "TestNG.Lab_312.executor": "Run",
+    "TestNG.Lab_312.testVwoLoginNegative.executor": "Run",
+    "TestNG.Lab_313.executor": "Run",
+    "TestNG.Lab_313.testVwoLoginNegative.executor": "Run",
+    "TestNG.Lab_317.Login.executor": "Run",
+    "TestNG.Lab_317.executor": "Run",
+    "TestNG.Lab_318.VWOLogin.executor": "Run",
+    "TestNG.Lab_319_Wait_helper.executor": "Run",
+    "TestNG.Lab_320.executor": "Run",
+    "TestNG.Lab_321.Herokupap.executor": "Run",
+    "TestNG.Lab_321.executor": "Run",
+    "TestNG.Lab_322.Herokupap.executor": "Run",
+    "TestNG.Lab_322.executor": "Run",
+    "TestNG.Lab_323_conformation_Promtp.element_Promtp.executor": "Run",
+    "TestNG.Lab_323_conformation_Promtp.executor": "Run",
+    "TestNG.Lab_323_conformation_promat.executor": "Run",
+    "TestNG.Lab_324_checkBox.element_Promtp.executor": "Run",
+    "TestNG.Lab_325_WebTable.executor": "Run",
+    "TestNG.Lab_326_WebTable.dynamicElementFind.executor": "Run",
+    "TestNG.Lab_328.SVG.executor": "Run",
+    "TestNG.Lab_329.executor": "Run",
+    "TestNG.Lab_330.SVG.executor": "Run",
+    "TestNG.Lab_331.executor": "Run",
+    "TestNG.Lab_332.executor": "Run",
+    "TestNG.Lab_333.executor": "Run",
+    "TestNG.Lab_334_MakeMyTrip.PostiveTestCase.executor": "Run",
+    "TestNG.Lab_334_MakeMyTrip.Spicejet.executor": "Run",
+    "TestNG.Lab_334_MakeMyTrip.executor": "Run",
+    "TestNG.Lab_335.PostiveTestCase (1).executor": "Run",
+    "TestNG.Lab_335.PostiveTestCase.executor": "Run",
+    "TestNG.Lab_336.executor": "Run",
+    "TestNG.Lab_336_Action.executor": "Run",
+    "TestNG.Lab_337_Dragon_drop.PostiveTestCase.executor": "Run",
+    "TestNG.Lab_338_file_upload.PostiveTestCase.executor": "Run",
+    "TestNG.Lab_338_file_upload.executor": "Run",
+    "TestNG.Lab_339.OpenPage.executor": "Run",
+    "TestNG.Lab_339.executor": "Run",
+    "TestNG.Lab_340.executor": "Run",
+    "TestNG.Lab_341.OpenPage.executor": "Run",
+    "TestNG.Lab_341.executor": "Run",
+    "TestNG.Lab_341_wait.executor": "Run",
+    "TestNG.Lab_342.OpenPage.executor": "Run",
+    "TestNG.Lab_342.executor": "Run",
+    "TestNG.Lab_342_Relativelocator.executor": "Run",
+    "TestNG.Lab_343_RelativeLocater.OpenPage.executor": "Run",
+    "TestNG.Lab_343_RelativeLocater.executor": "Run",
+    "TestNG.MakeMyTripTest.executor": "Run",
+    "TestNG.Selenium_wait.login.executor": "Run",
+    "TestNG.Selenium_wait_Explicity.executor": "Run",
+    "git-widget-placeholder": "Staging",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AARRSOL/IdeaProjects/ATB7xseleniumPractice",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\AARRSOL\IdeaProjects\ATB7xseleniumPractice\src\test\java\com\thetestingacadmey\ex_selenium\ex_selenium_30_12_2024" />
@@ -141,58 +252,24 @@
       <recent name="C:\Users\AARRSOL\IdeaProjects\ATB7xseleniumPractice\src\test\java\com\thetestingacadmey\ex_selenium\ex_selenium_30_12_2024" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacadmey.ex_Selenium_15_05_2025" />
+      <recent name="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling" />
       <recent name="com.thetestingacadmey.ex_selenium_30_04_25_Actions_Window_Drag_Drop" />
       <recent name="com.thetestingacadmey.ex_selenium_24_04_25.ActionClass" />
       <recent name="com.thetestingacadmey.ex_selenium_08_04_2025.SVG" />
-      <recent name="com.thetestingacadmey.ex_selenium_04_04_25_DaymicElements" />
-      <recent name="com.thetestingacadmey.ex_selenium_03_04_25JavaScriptAlerts" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lab_339.OpenPage">
-    <configuration name="Lab_316" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Lab_343_RelativeLocater.OpenPage">
+    <configuration name="Lab_341" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB7xseleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_24_03_2025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_24_03_2025" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_24_03_2025.Lab_316" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_336_Action" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB7xseleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_30_04_25_Actions_Window_Drag_Drop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_30_04_25_Actions_Window_Drag_Drop" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_30_04_25_Actions_Window_Drag_Drop.Lab_336_Action" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_339" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB7xseleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling.*" />
+          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_09_05_25_Window_Handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling.Lab_339" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_09_05_25_Window_Handling.Lab_341" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -200,16 +277,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_339.OpenPage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_342_Relativelocator" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB7xseleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling.*" />
+          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_09_05_25_Window_Handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling.Lab_339" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_09_05_25_Window_Handling.Lab_342_Relativelocator" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_342_Relativelocator.OpenPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB7xseleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_09_05_25_Window_Handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_09_05_25_Window_Handling.Lab_342_Relativelocator" />
       <option name="METHOD_NAME" value="OpenPage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -218,17 +312,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_340" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_343_RelativeLocater" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB7xseleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling.*" />
+          <option name="PATTERN" value="com.thetestingacadmey.ex_Selenium_15_05_2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling.Lab_340" />
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_Selenium_15_05_2025" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_343_RelativeLocater" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_343_RelativeLocater.OpenPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB7xseleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacadmey.ex_Selenium_15_05_2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.ex_Selenium_15_05_2025" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_343_RelativeLocater" />
+      <option name="METHOD_NAME" value="OpenPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -237,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Lab_339.OpenPage" />
-        <item itemvalue="TestNG.Lab_340" />
-        <item itemvalue="TestNG.Lab_339" />
-        <item itemvalue="TestNG.Lab_316" />
-        <item itemvalue="TestNG.Lab_336_Action" />
+        <item itemvalue="TestNG.Lab_343_RelativeLocater.OpenPage" />
+        <item itemvalue="TestNG.Lab_343_RelativeLocater" />
+        <item itemvalue="TestNG.Lab_342_Relativelocator" />
+        <item itemvalue="TestNG.Lab_342_Relativelocator.OpenPage" />
+        <item itemvalue="TestNG.Lab_341" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +471,25 @@
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_selenium_09_05_25_Window_Handling/Lab_341.java</url>
+          <line>31</line>
+          <properties class="com.thetestingacadmey.ex_selenium_09_05_25_Window_Handling.Lab_341" method="OpenPage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacadmey/ex_Selenium_15_05_2025/Lab_343_RelativeLocater.java</url>
+          <line>29</line>
+          <properties class="com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_343_RelativeLocater" method="OpenPage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

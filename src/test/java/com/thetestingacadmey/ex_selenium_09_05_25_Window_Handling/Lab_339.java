@@ -1,4 +1,5 @@
-package com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling;
+package com.thetestingacadmey.ex_selenium_09_05_25_Window_Handling;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -35,9 +36,16 @@ public class Lab_339 {
         link.click();
         Set<String> windowHandle = driver.getWindowHandles();
         // All the windows tab have a unique name
-        for (String handles : windowHandle) {
-            System.out.println(handles);
+        for (String handle : windowHandle) {
+            driver.switchTo().window(handle);
+                    System.out.println(handle);
+            if (driver.getPageSource().contains("New Window")){
+                System.out.println("Test Case Pase");
+            }
         }
+        Thread.sleep(2000);
+        driver.switchTo().window(mainWindowHandling);
+        Thread.sleep(2000);
     }
 
     @AfterSuite

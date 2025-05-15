@@ -34,6 +34,12 @@ public class Lab_335 {
         // list_heatmaps.get(1).click();
         //img[@data-qa="danawobuqa"]
         // or
+//        List<WebElement> firstTab = driver.findElements(By.xpath("//img[@data-qa=\"danawobuqa\"]"));
+////        firstTab.get(0).click();
+//        // or
+//        Actions actions = new Actions(driver);
+//        actions.moveToElement(firstTab.get(0)).click().build().perform();
+
         List<WebElement> firstTab = driver.findElements(By.xpath("//img[@data-qa=\"danawobuqa\"]"));
 //        firstTab.get(0).click();
         // or

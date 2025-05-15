@@ -1,4 +1,4 @@
-package com.thetestingacadmey.ex_selenium_09_04_25_Window_Handling;
+package com.thetestingacadmey.ex_selenium_09_05_25_Window_Handling;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.PageLoadStrategy;
