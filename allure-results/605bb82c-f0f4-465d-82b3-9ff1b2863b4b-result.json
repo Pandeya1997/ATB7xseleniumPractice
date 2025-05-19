@@ -1,0 +1,61 @@
+{
+  "uuid": "605bb82c-f0f4-465d-82b3-9ff1b2863b4b",
+  "historyId": "9ae9f0412ce08545fc46b699b4d7c52f",
+  "fullName": "com.thetestingacadmey.ex_Selenium_15_05_2025.IFrameExample.testIframeInteraction",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_Selenium_15_05_2025.IFrameExample"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_Selenium_15_05_2025.IFrameExample"
+    },
+    {
+      "name": "testMethod",
+      "value": "testIframeInteraction"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_Selenium_15_05_2025.IFrameExample"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "32924@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testIframeInteraction",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747401932024,
+  "stop": 1747401956177
+}

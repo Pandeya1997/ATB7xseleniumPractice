@@ -1,0 +1,11 @@
+{
+  "uuid": "8ec06822-8a23-4d76-a557-1a06c2e95971",
+  "name": "com.thetestingacademy.ex_Selenium_15_05_2025.Lab_345",
+  "children": [
+    "46b2414a-9c3e-493d-b6e8-cb89579e4719"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1747388359958,
+  "stop": 1747388361893
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "595bccc9-4ce6-476e-b4ff-6ebef7fc1009",
+  "name": "com.thetestingacadmey.ex_Selenium_18_05_2025_Exception.Lab_346",
+  "children": [
+    "1f3f9fac-a303-4242-a1da-ece918da2a36"
+  ],
+  "befores": [
+    {
+      "name": "setup",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747574766030,
+      "stop": 1747574770922
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747574776060,
+      "stop": 1747574779353
+    }
+  ],
+  "start": 1747574766004,
+  "stop": 1747574779361
+}

@@ -1,0 +1,62 @@
+{
+  "uuid": "303fcaa1-3bce-430e-aa0a-1f00a3d889f7",
+  "historyId": "b94d38e801eb1a134ef64490cac661b",
+  "fullName": "com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_345.openPage",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_345"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_345"
+    },
+    {
+      "name": "testMethod",
+      "value": "openPage"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_345"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "24532@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "openPage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Verify validation message when email is not entered on login screen",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747388658301,
+  "stop": 1747388662211
+}

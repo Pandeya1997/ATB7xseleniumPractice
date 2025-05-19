@@ -1,0 +1,11 @@
+{
+  "uuid": "55f2072e-e9fd-4d93-b6fa-c079d715d15c",
+  "name": "com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_344",
+  "children": [
+    "6311bb24-32bb-4e98-81be-f727fcba5ebd"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1747379224049,
+  "stop": 1747379230538
+}

@@ -1,0 +1,61 @@
+{
+  "uuid": "8accbf8d-980c-4d71-8bee-fa6d337833a6",
+  "historyId": "385121a321b579fdc2b1f08cf46d3d7f",
+  "fullName": "com.thetestingacadmey.ex_Selenium_18_05_2025_Exception.Lab_346.testIframeInteraction",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_Selenium_18_05_2025_Exception.Lab_346"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_Selenium_18_05_2025_Exception.Lab_346"
+    },
+    {
+      "name": "testMethod",
+      "value": "testIframeInteraction"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_Selenium_18_05_2025_Exception.Lab_346"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "2036@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testIframeInteraction",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747574803992,
+  "stop": 1747574809108
+}

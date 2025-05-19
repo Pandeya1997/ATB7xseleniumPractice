@@ -44,7 +44,13 @@ public class Lab_343_RelativeLocater {
         for (WebElement l : list_of_states) {
             String s1 = driver.findElement(with(By.tagName("p")).toRightOf(l)).getText();
             String s2 = driver.findElement(with(By.tagName("p")).toLeftOf(l)).getText();
-            System.out.println(l.getText() + "-->" + s1 + "-->s2");
+            String s3 = driver.findElement(with(By.tagName("p")).above(l)).getText();
+            String s4 = driver.findElement(with(By.tagName("p")).below(l)).getText();
+            String s5 = driver.findElement(with(By.tagName("p")).near(l)).getText();
+
+
+            System.out.println(l.getText() + "-->" + s1 + "-->" + s2);
+            System.out.println(l.getText() + "==>" + s3 + "++>" + s4 + "-->" + s5);
 
         }
 

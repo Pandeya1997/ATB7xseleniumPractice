@@ -1,0 +1,62 @@
+{
+  "uuid": "f82f06d4-a434-4474-a9e4-12882a12f094",
+  "historyId": "642e3e66f56daccdaabda39234434c6c",
+  "fullName": "com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_345.OpenPage",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_345"
+    },
+    {
+      "name": "testClass",
+      "value": "com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_345"
+    },
+    {
+      "name": "testMethod",
+      "value": "OpenPage"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "ATB7xseleniumPractice"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.thetestingacadmey.ex_Selenium_15_05_2025.Lab_345"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-B6IU4L2"
+    },
+    {
+      "name": "thread",
+      "value": "1408@DESKTOP-B6IU4L2.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "OpenPage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Test case description",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747387403917,
+  "stop": 1747387414772
+}
