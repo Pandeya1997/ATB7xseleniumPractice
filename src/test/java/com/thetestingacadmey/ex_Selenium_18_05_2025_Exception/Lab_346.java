@@ -38,6 +38,7 @@ public class Lab_346 {
             // b1.click --> ? no such element
             // driver.switchTO().frame(1);
             // driver.swithTO().alert().accept();
+
         }catch (StaleElementReferenceException | NoSuchElementException ex){
             System.out.println(ex.getMessage());
         }

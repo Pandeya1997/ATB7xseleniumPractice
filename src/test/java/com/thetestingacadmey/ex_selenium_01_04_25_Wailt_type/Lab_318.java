@@ -13,7 +13,6 @@ import org.testng.Assert;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
-
 import java.time.Duration;
 
 public class Lab_318 {
@@ -27,10 +26,9 @@ public class Lab_318 {
         driver = new EdgeDriver(options);
         driver.manage().window().maximize();
     }
-
-    @Test
-    @Description("Explicit wait Post Test Case - VWO Login")
-    public void VWOLogin() {
+    @Test(groups = "QA")
+    @Description("Explicit wait test")
+    public void VWOLogin(){
         // Explicit Wait
         driver.get("https://app.vwo.com/#/login");
         String Title = driver.getTitle();
@@ -40,7 +38,7 @@ public class Lab_318 {
         driver.findElement(By.id("js-login-btn")).click();
 // wait for DashBoard to load
         //  span[data-qa="lufexuloga"]
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(300));
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("span[data-qa=\"lufexuloga\"]")));
 // Find the WebElement
         WebElement LogginUserName = driver.findElement(By.cssSelector("span[data-qa=\"lufexuloga\"]"));

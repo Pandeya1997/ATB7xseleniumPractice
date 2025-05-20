@@ -1,6 +1,5 @@
 package com.thetestingacadmey.ex_selenium_30_04_25_Actions_Window_Drag_Drop;
 
-import com.beust.ah.A;
 import io.qameta.allure.Description;
 import org.openqa.selenium.*;
 import org.openqa.selenium.edge.EdgeDriver;
