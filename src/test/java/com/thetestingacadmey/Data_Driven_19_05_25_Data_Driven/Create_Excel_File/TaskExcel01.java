@@ -1,10 +1,9 @@
-package com.thetestingacadmey.Data_Driven_19_05_25_Data_Driven;
+package com.thetestingacadmey.Data_Driven_19_05_25_Data_Driven.Create_Excel_File;
 
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -36,14 +35,20 @@ public class TaskExcel01 {
             Row row = sheet.createRow(rownum++);
             Object[] rowData = data.get(key);
             int cellnum = 0;
-            for (Object obj : rowData) {
+            for (Object o : rowData) {
                 Cell cell = row.createCell(cellnum++);
-                cell.setCellValue(obj.toString());
+                if(o instanceof String){
+                    cell.setCellValue((String) o);
+                }
+                if (o instanceof Integer){
+                    cell.setCellValue((Integer)o);
+                }
+                cell.setCellValue(o.toString());
             }
         }
 
         // Write the output to file
-        try (FileOutputStream out = new FileOutputStream(new File("demo.xls"))) {
+        try (FileOutputStream out = new FileOutputStream(new File("demo1.xls"))) {
             workbook.write(out);
         }
 
@@ -51,5 +56,8 @@ public class TaskExcel01 {
         workbook.close();
 
         System.out.println("Excel file written successfully.");
+    }
+
+    public static class Lab_349 {
     }
 }
